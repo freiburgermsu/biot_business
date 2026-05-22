@@ -1,0 +1,71 @@
+# Concentration profile of the malt-extract media defined in Malt_extract_media.docx
+# Recipe (per 500 mL water): 2.5 g malt extract, 0.625 g peptone
+# Working concentrations in prepared media: 5.00 g/L malt extract, 1.25 g/L peptone
+# pH (typical): ~5.4-5.6 unbuffered
+#
+# Decomposition into the irreducible set of molecular feeds (free monomers / ions / gases)
+# Source assumptions:
+#   - Malt extract: composition typical of BD Bacto / Difco malt extract (barley-derived):
+#       carbohydrate ~92% w/w  -> maltose 52%, maltotriose 15%, higher dextrins 20%,
+#                                 glucose 10%, sucrose 2%, fructose 1% of carb fraction
+#       protein/amino-N ~5% w/w (hydrolyzed here to free AAs using barley-protein AA distribution)
+#       ash ~1.5% w/w (K, Pi, Mg, Ca, Na, S, Cl, trace Fe/Mn/Zn/Cu/Mo)
+#       trace B-vitamins and inositol/choline carried from malt
+#   - Peptone: pancreatic digest of casein-type (Bacto Peptone):
+#       free amino acid + small peptide pool ~80% w/w (treated as fully hydrolyzed to free AAs,
+#       casein AA distribution)
+#       NaCl ~4-5% w/w, residual ash ~2% (K, Ca, Mg, Pi, SO4)
+#   - Water solvent treated as 55.5 M; gases at 25 deg C, atmospheric equilibrium.
+# All concentrations refer to the prepared media (g/L and mM in the 5 g/L malt + 1.25 g/L peptone broth).
+# Values are estimates - lot-to-lot variation 10-30% is expected for malt extract and peptone.
+category,subcategory,component,formula,MW_g_per_mol,mass_g_per_L,concentration_mM,source,notes
+solvent,water,water,H2O,18.02,9.97e+02,5.55e+04,water,bulk solvent
+gas,dissolved_gas,dioxygen,O2,32.00,8.00e-03,2.50e-01,atmosphere,air-equilibrated at 25 C
+gas,dissolved_gas,carbon_dioxide,CO2,44.01,4.40e-04,1.00e-02,atmosphere,air-equilibrated; small HCO3- pool at pH ~5.5
+organic,carbohydrate,maltose,C12H22O11,342.30,2.392e+00,6.989e+00,malt_extract,disaccharide (Glc-a1,4-Glc); dominant carbon source
+organic,carbohydrate,maltotriose,C18H32O16,504.44,6.900e-01,1.368e+00,malt_extract,Glc-a1,4-Glc-a1,4-Glc
+organic,carbohydrate,higher_dextrins,(C6H10O5)n,~990,9.200e-01,9.30e-01,malt_extract,DP4-DP10 alpha-glucan oligosaccharides; mM estimated assuming avg DP6
+organic,carbohydrate,glucose,C6H12O6,180.16,4.600e-01,2.553e+00,malt_extract,free monosaccharide
+organic,carbohydrate,sucrose,C12H22O11,342.30,9.200e-02,2.69e-01,malt_extract,Glc-a1,2b-Fru
+organic,carbohydrate,fructose,C6H12O6,180.16,4.600e-02,2.55e-01,malt_extract,free monosaccharide
+organic,amino_acid,L-glutamate_glutamine,C5H9NO4 / C5H10N2O3,146.6 (avg),2.825e-01,1.927e+00,malt_extract+peptone,Glu+Gln pool (deamidation during peptone manufacture not resolved)
+organic,amino_acid,L-proline,C5H9NO2,115.13,1.405e-01,1.221e+00,malt_extract+peptone,
+organic,amino_acid,L-leucine,C6H13NO2,131.17,1.095e-01,8.35e-01,malt_extract+peptone,
+organic,amino_acid,L-valine,C5H11NO2,117.15,8.450e-02,7.21e-01,malt_extract+peptone,
+organic,amino_acid,L-aspartate_asparagine,C4H7NO4 / C4H8N2O3,132.6 (avg),8.350e-02,6.30e-01,malt_extract+peptone,Asp+Asn pool
+organic,amino_acid,L-serine,C3H7NO3,105.09,6.600e-02,6.28e-01,malt_extract+peptone,
+organic,amino_acid,L-lysine,C6H14N2O2,146.19,8.250e-02,5.64e-01,malt_extract+peptone,
+organic,amino_acid,L-alanine,C3H7NO2,89.09,4.000e-02,4.49e-01,malt_extract+peptone,
+organic,amino_acid,L-threonine,C4H9NO3,119.12,5.075e-02,4.26e-01,malt_extract+peptone,
+organic,amino_acid,L-isoleucine,C6H13NO2,131.17,5.775e-02,4.40e-01,malt_extract+peptone,
+organic,amino_acid,L-glycine,C2H5NO2,75.07,2.800e-02,3.73e-01,malt_extract+peptone,
+organic,amino_acid,L-phenylalanine,C9H11NO2,165.19,6.125e-02,3.71e-01,malt_extract+peptone,
+organic,amino_acid,L-tyrosine,C9H11NO3,181.19,6.250e-02,3.45e-01,malt_extract+peptone,limited solubility (<0.5 g/L) - well below saturation here
+organic,amino_acid,L-arginine,C6H14N4O2,174.20,4.500e-02,2.58e-01,malt_extract+peptone,
+organic,amino_acid,L-histidine,C6H9N3O2,155.16,3.200e-02,2.06e-01,malt_extract+peptone,
+organic,amino_acid,L-methionine,C5H11NO2S,149.21,3.075e-02,2.06e-01,malt_extract+peptone,
+organic,amino_acid,L-tryptophan,C11H12N2O2,204.23,1.725e-02,8.45e-02,malt_extract+peptone,partly degraded during acid hydrolysis - actual may be lower
+organic,amino_acid,L-cysteine,C3H7NO2S,121.16,7.750e-03,6.40e-02,malt_extract+peptone,reported as half-cystine; some as cystine dimer
+organic,vitamin,thiamine,C12H17N4OS+,265.36,1.50e-05,5.66e-05,malt_extract,B1; cation form (free base shown); typical malt level
+organic,vitamin,riboflavin,C17H20N4O6,376.36,5.00e-06,1.33e-05,malt_extract,B2
+organic,vitamin,nicotinate,C6H5NO2,123.11,2.50e-04,2.03e-03,malt_extract,B3 (niacin)
+organic,vitamin,pantothenate,C9H17NO5,219.23,2.50e-05,1.14e-04,malt_extract,B5
+organic,vitamin,pyridoxine,C8H11NO3,169.18,2.50e-05,1.48e-04,malt_extract,B6 (free base)
+organic,vitamin,biotin,C10H16N2O3S,244.31,2.50e-07,1.02e-06,malt_extract,B7
+organic,vitamin,folate,C19H19N7O6,441.40,2.50e-06,5.66e-06,malt_extract,B9
+organic,vitamin,myo-inositol,C6H12O6,180.16,7.50e-04,4.16e-03,malt_extract,
+organic,vitamin,choline,C5H14NO+,104.17,1.50e-04,1.44e-03,malt_extract,cation
+ion,cation,potassium,K+,39.10,2.78e-02,7.10e-01,malt_extract+peptone,K-Pi and K-organate salts in malt ash
+ion,cation,sodium,Na+,22.99,2.08e-02,9.05e-01,malt_extract+peptone,dominated by NaCl in peptone
+ion,cation,magnesium,Mg2+,24.31,5.63e-03,2.32e-01,malt_extract+peptone,
+ion,cation,calcium,Ca2+,40.08,3.75e-03,9.36e-02,malt_extract+peptone,
+ion,cation,ammonium,NH4+,18.04,1.00e-03,5.5e-02,malt_extract+peptone,from deamidation/free-AA pool; rough estimate
+ion,anion,inorganic_phosphate,HPO4_2-/H2PO4_-,~96,6.36e-02,6.54e-01,malt_extract+peptone,total Pi; mixed mono/di-protonated at pH ~5.5
+ion,anion,sulfate,SO4_2-,96.06,1.34e-02,1.40e-01,malt_extract+peptone,
+ion,anion,chloride,Cl-,35.45,3.05e-02,8.60e-01,malt_extract+peptone,mainly from NaCl in peptone
+ion,anion,bicarbonate,HCO3-,61.02,6.10e-05,1.00e-03,atmosphere,small pool from CO2 equilibrium at pH ~5.5
+ion,trace_metal,iron,Fe2+/Fe3+,55.85,3.75e-05,6.71e-04,malt_extract,oxidation state pH/redox dependent
+ion,trace_metal,manganese,Mn2+,54.94,7.50e-06,1.37e-04,malt_extract,
+ion,trace_metal,zinc,Zn2+,65.38,1.50e-05,2.29e-04,malt_extract,
+ion,trace_metal,copper,Cu2+,63.55,3.75e-06,5.90e-05,malt_extract,
+ion,trace_metal,molybdate,MoO4_2-,159.94,1.00e-07,6.3e-07,malt_extract,trace; needed for nitrate reductase activity
