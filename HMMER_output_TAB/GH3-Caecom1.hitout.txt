@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_11960           -            763 GH3.hmm              -            216   5.9e-64  215.3   0.0   1   1   5.9e-67   8.4e-64  214.8   0.0     4   216    63   271    60   271 0.98 [Caecom1]
+gene_622             -            871 GH3.hmm              -            216   2.6e-60  203.4   0.0   1   1   2.7e-63   3.8e-60  202.8   0.0     4   216    62   270    59   270 0.97 [Caecom1]
+gene_11812           -            829 GH3.hmm              -            216   4.4e-59  199.3   0.0   1   1     5e-62   7.1e-59  198.6   0.0    23   216   578   790   525   790 0.86 [Caecom1]
+gene_11588           -            521 GH3.hmm              -            216   5.1e-59  199.1   0.0   1   1   6.3e-62   8.9e-59  198.3   0.0     6   216    69   292    65   292 0.95 [Caecom1]
+gene_9155            -            812 GH3.hmm              -            216   1.4e-58  197.7   0.0   1   1   1.6e-61   2.2e-58  197.0   0.0    24   215   573   772   511   789 0.90 [Caecom1]
+gene_7775            -            826 GH3.hmm              -            216     1e-55  188.3   0.0   1   1   1.2e-58   1.7e-55  187.6   0.0    24   194   591   763   576   787 0.93 [Caecom1]
+gene_12802           -            820 GH3.hmm              -            216     1e-54  185.1   0.0   1   1   1.1e-57   1.6e-54  184.4   0.0    24   193   585   756   527   781 0.94 [Caecom1]
+gene_25104           -            854 GH3.hmm              -            216   1.1e-50  171.9   0.0   1   1   1.2e-53   1.7e-50  171.3   0.0    20   216   609   815   598   815 0.94 [Caecom1]
+gene_6686            -            821 GH3.hmm              -            216   1.8e-50  171.2   0.0   1   1   1.9e-53   2.7e-50  170.6   0.0    13   215   572   781   566   782 0.92 [Caecom1]
+gene_5726            -           1184 GH3.hmm              -            216   7.4e-41  139.8   0.0   1   1   2.6e-43   3.7e-40  137.5   0.1    69   216     1   141     1   141 0.95 [Caecom1]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/GH3/GH3.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Caecom1.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/GH3/GH3-Caecom1.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/GH3/GH3.hmm /kb/module/work/tmp/output.1777173254839/Caecom1.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:16:06 2026
+# [ok]

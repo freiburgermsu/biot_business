@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_3991            -           1342 CE2.hmm              -            209    3e-134  445.1   2.9   1   2   3.7e-69   5.2e-66  222.2   0.2     1   209   344   567   344   567 0.97 [Caecom1]
+gene_3991            -           1342 CE2.hmm              -            209    3e-134  445.1   2.9   2   2   2.5e-69   3.6e-66  222.7   0.2     1   209   769   991   769   991 0.97 [Caecom1]
+gene_10630           -            764 CE2.hmm              -            209  2.3e-116  386.6   0.4   1   2   8.3e-60   1.2e-56  191.6   0.0     1   209   153   384   153   384 0.95 [Caecom1]
+gene_10630           -            764 CE2.hmm              -            209  2.3e-116  386.6   0.4   2   2   2.9e-60   4.1e-57  193.1   0.1     1   209   515   746   515   746 0.95 [Caecom1]
+gene_10629           -            635 CE2.hmm              -            209   6.7e-81  270.8   4.3   1   2   3.3e-33   4.7e-30  104.7   0.0    81   209   162   293   132   293 0.93 [Caecom1]
+gene_10629           -            635 CE2.hmm              -            209   6.7e-81  270.8   4.3   2   2   6.6e-45   9.4e-42  142.9   0.3     1   209   424   617   424   617 0.93 [Caecom1]
+gene_10631           -            457 CE2.hmm              -            209     8e-55  185.6   0.0   1   1     1e-57   1.4e-54  184.8   0.0     1   209   207   439   207   439 0.93 [Caecom1]
+gene_10635           -            157 CE2.hmm              -            209   2.1e-34  118.9   0.0   1   1   1.6e-37   2.2e-34  118.8   0.0    81   209    11   141     1   141 0.92 [Caecom1]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/CE2/CE2.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Caecom1.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/CE2/CE2-Caecom1.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/CE2/CE2.hmm /kb/module/work/tmp/output.1777173254839/Caecom1.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:19:02 2026
+# [ok]

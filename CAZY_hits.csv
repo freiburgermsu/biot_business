@@ -1,0 +1,1258 @@
+, GH1, GH2, GH3, GH5, GH5_1, GH5_2, GH5_4, GH5_5, GH5_7, GH5_8, GH5_9, GH5_12, GH5_14, GH5_15, GH5_20, GH5_22, GH5_24, GH5_25, GH5_31, GH5_44, GH5_45, GH5_46, GH5_47, GH5_49, GH5_50, GH5_51, GH5_54, GH6, GH7, GH8, GH9, GH10, GH11, GH12, GH13, GH13_1, GH13_2, GH13_4, GH13_5, GH13_7, GH13_8, GH13_9, GH13_10, GH13_11, GH13_12, GH13_13, GH13_14, GH13_15, GH13_16, GH13_17, GH13_20, GH13_21, GH13_22, GH13_23, GH13_24, GH13_25, GH13_28, GH13_29, GH13_30, GH13_31, GH13_32, GH13_35, GH13_36, GH13_37, GH13_39, GH13_40, GH13_41, GH15, GH16, GH16_1, GH16_2, GH16_3, GH16_4, GH16_5, GH16_10, GH16_18, GH16_19, GH16_21, GH18, GH20, GH25, GH26, GH27, GH28, GH30, GH30_1, GH30_2, GH30_3, GH30_4, GH30_5, GH30_9, GH31, GH35, GH37, GH38, GH43, GH43_1, GH43_2, GH43_3, GH43_4, GH43_5, GH43_6, GH43_7, GH43_8, GH43_9, GH43_10, GH43_11, GH43_12, GH43_13, GH43_14, GH43_16, GH43_18, GH43_19, GH43_20, GH43_21, GH43_22, GH43_24, GH43_29, GH43_30, GH43_31, GH43_32, GH43_34, GH43_35, GH43_36, GH43_37, GH45, GH47, GH48, GH51, GH53, GH55, GH63, GH64, GH67, GH71, GH72, GH73, GH78, GH79, GH85, GH88, GH89, GH92, GH95, GH105, GH114, GH115, GH124, GH125, GH128, GH131, GH133, GH135, GH141, GH152, GH154, GT1, GT2_Chitin_synth_1, GT2_Chitin_synth_2, GT2_Glycos_transf_2, GT2_Glyco_tranf_2_3, GT2_Glyco_trans_2_3, GT3, GT4, GT5, GT6, GT8, GT10, GT11, GT15, GT17, GT20, GT21, GT22, GT24, GT33, GT35, GT39, GT48, GT49, GT50, GT57, GT58, GT59, GT66, GT69, GT71, GT76, GT90, GT101, CBM13, CBM20, CBM21, CBM22, CBM29, CBM35, CBM61, CBM87, CE1, CE2, CE4, CE6, CE8, CE9, CE12, CE15, CE16, CE18, PL1, PL1_2, PL1_3, PL1_5, PL1_6, PL1_7, PL1_9, PL1_10, PL3, PL3_1, PL3_2, PL3_4, PL3_5, PL4, PL4_2, PL4_3, PL4_4, PL4_5, PL8, PL8_3, PL8_4, PL14, PL14_3, PL14_4, PL14_5, PL35, PL38, PL42, AA1, AA1_1, AA1_2, AA1_3, AA2, AA3, AA3_1, AA3_2, AA3_3, AA3_4, AA5, AA5_1, AA6, AA7, AA8, AA9, AA12, AA14
+Phchr4_2 ,"2 hits
+gene_10357
+gene_9963","2 hits
+gene_1129
+gene_3147","10 hits
+gene_10423
+gene_10492
+gene_1062
+gene_20
+gene_2396
+gene_2744
+gene_476
+gene_481
+gene_5980
+gene_6883","15 hits
+gene_11291
+gene_11914
+gene_11915
+gene_12179
+gene_139
+gene_1797
+gene_2656
+gene_5691
+gene_5841
+gene_6414
+gene_7898
+gene_9065
+gene_9334
+gene_9721
+gene_9830",0,0,0,"2 hits
+gene_5841
+gene_9334","3 hits
+gene_12179
+gene_5691
+gene_7898",0,"8 hits
+gene_11291
+gene_139
+gene_1797
+gene_1956
+gene_6414
+gene_7036
+gene_9065
+gene_9721","2 hits
+gene_2656
+gene_9830","5 hits
+gene_11291
+gene_1797
+gene_6414
+gene_9065
+gene_9721","5 hits
+gene_11291
+gene_1797
+gene_3822
+gene_6414
+gene_9721",0,"3 hits
+gene_11914
+gene_11915
+gene_1797",0,0,"1 hit
+gene_11197","3 hits
+gene_139
+gene_1956
+gene_6414","7 hits
+gene_11291
+gene_139
+gene_1797
+gene_1956
+gene_6414
+gene_9065
+gene_9721","2 hits
+gene_11914
+gene_11915","2 hits
+gene_11914
+gene_11915","2 hits
+gene_1797
+gene_9065","5 hits
+gene_11291
+gene_1797
+gene_6414
+gene_9065
+gene_9721",0,"2 hits
+gene_11914
+gene_11915","1 hit
+gene_2103","7 hits
+gene_11048
+gene_11052
+gene_11053
+gene_258
+gene_260
+gene_3334
+gene_3732",0,"1 hit
+gene_994","6 hits
+gene_10959
+gene_12278
+gene_2987
+gene_6790
+gene_7431
+gene_77","1 hit
+gene_5143","2 hits
+gene_7427
+gene_8718","6 hits
+gene_11698
+gene_1893
+gene_2300
+gene_7649
+gene_8083
+gene_9640","2 hits
+gene_11698
+gene_2300","2 hits
+gene_11698
+gene_2300","2 hits
+gene_7649
+gene_8083","1 hit
+gene_9640","1 hit
+gene_9640","1 hit
+gene_539","1 hit
+gene_539","1 hit
+gene_539",0,0,0,0,"1 hit
+gene_7375","2 hits
+gene_7649
+gene_8083","2 hits
+gene_7649
+gene_8083","4 hits
+gene_11698
+gene_2300
+gene_7649
+gene_8083","2 hits
+gene_7649
+gene_8083","2 hits
+gene_1893
+gene_1893","2 hits
+gene_7649
+gene_8083","1 hit
+gene_7375","1 hit
+gene_3773",0,"2 hits
+gene_7649
+gene_8083","2 hits
+gene_7649
+gene_8083","2 hits
+gene_7649
+gene_8083","1 hit
+gene_7375","2 hits
+gene_7649
+gene_8083","4 hits
+gene_11698
+gene_2300
+gene_7649
+gene_8083",0,"2 hits
+gene_7649
+gene_8083","2 hits
+gene_7649
+gene_8083","2 hits
+gene_11698
+gene_2300","2 hits
+gene_7355
+gene_7884","2 hits
+gene_12056
+gene_7495","12 hits
+gene_10712
+gene_10719
+gene_11175
+gene_11196
+gene_11349
+gene_3344
+gene_5049
+gene_5097
+gene_5521
+gene_8057
+gene_8119
+gene_8591","5 hits
+gene_12376
+gene_504
+gene_5645
+gene_5653
+gene_7337","2 hits
+gene_12056
+gene_7495","2 hits
+gene_12056
+gene_7495",0,0,"2 hits
+gene_4035
+gene_9268","2 hits
+gene_4035
+gene_9268",0,"7 hits
+gene_10025
+gene_10050
+gene_1281
+gene_297
+gene_4942
+gene_5311
+gene_7351","4 hits
+gene_1548
+gene_5847
+gene_8615
+gene_8619","1 hit
+gene_9293",0,"3 hits
+gene_4682
+gene_5967
+gene_9286","5 hits
+gene_10974
+gene_11289
+gene_11301
+gene_12127
+gene_9250","2 hits
+gene_10485
+gene_8358","1 hit
+gene_8358","1 hit
+gene_8358","1 hit
+gene_8358","1 hit
+gene_10485","1 hit
+gene_10485","1 hit
+gene_8358","6 hits
+gene_2246
+gene_2664
+gene_4165
+gene_4169
+gene_4187
+gene_7072","2 hits
+gene_1394
+gene_7213","2 hits
+gene_6769
+gene_8631","1 hit
+gene_11615","3 hits
+gene_1876
+gene_2678
+gene_8767",0,0,"2 hits
+gene_2678
+gene_8767","1 hit
+gene_8767","1 hit
+gene_8767","1 hit
+gene_8767","1 hit
+gene_8767","1 hit
+gene_2678","1 hit
+gene_1876","1 hit
+gene_1876","1 hit
+gene_1876","1 hit
+gene_1876","1 hit
+gene_1876","1 hit
+gene_1876",0,0,0,0,0,0,"1 hit
+gene_1831",0,"1 hit
+gene_2678",0,"1 hit
+gene_2678","1 hit
+gene_2678",0,0,"1 hit
+gene_1831",0,"5 hits
+gene_12164
+gene_1604
+gene_3963
+gene_751
+gene_9133",0,"2 hits
+gene_10294
+gene_9248","1 hit
+gene_7790","2 hits
+gene_1955
+gene_4497","1 hit
+gene_2267",0,0,"3 hits
+gene_7513
+gene_7514
+gene_8444","1 hit
+gene_5873",0,"1 hit
+gene_11659","7 hits
+gene_10
+gene_10680
+gene_10681
+gene_2385
+gene_4628
+gene_574
+gene_9649","1 hit
+gene_99","1 hit
+gene_2499","2 hits
+gene_6476
+gene_7805","4 hits
+gene_4657
+gene_9
+gene_92
+gene_9814","1 hit
+gene_7491","1 hit
+gene_1064",0,"1 hit
+gene_10735",0,"1 hit
+gene_722","5 hits
+gene_671
+gene_711
+gene_712
+gene_7574
+gene_8407","3 hits
+gene_6027
+gene_8098
+gene_8662","1 hit
+gene_3773","1 hit
+gene_394",0,"6 hits
+gene_12372
+gene_4917
+gene_8009
+gene_8035
+gene_9756
+gene_9990","1 hit
+gene_4761","2 hits
+gene_5871
+gene_7737","4 hits
+gene_1132
+gene_4667
+gene_6217
+gene_8738","4 hits
+gene_11308
+gene_1295
+gene_4469
+gene_6484","1 hit
+gene_7441","1 hit
+gene_5259","3 hits
+gene_11000
+gene_12058
+gene_7496","1 hit
+gene_2798","2 hits
+gene_10337
+gene_2484","1 hit
+gene_1893",0,"4 hits
+gene_3428
+gene_6042
+gene_6088
+gene_855",0,0,"2 hits
+gene_1873
+gene_3081","1 hit
+gene_10677","3 hits
+gene_10700
+gene_9007
+gene_9571","1 hit
+gene_5859","4 hits
+gene_1620
+gene_6064
+gene_6154
+gene_9851","1 hit
+gene_8768","1 hit
+gene_4247","1 hit
+gene_10654","3 hits
+gene_155
+gene_1582
+gene_3543","2 hits
+gene_1982
+gene_9864","1 hit
+gene_11716","1 hit
+gene_1660","2 hits
+gene_1047
+gene_8364","1 hit
+gene_1787","1 hit
+gene_5997","1 hit
+gene_3417","3 hits
+gene_11275
+gene_2800
+gene_6480",0,"1 hit
+gene_4471","1 hit
+gene_11298",0,0,"1 hit
+gene_7884","1 hit
+gene_2629",0,0,0,0,0,"1 hit
+gene_5838",0,0,0,"2 hits
+gene_11628
+gene_8572","2 hits
+gene_7094
+gene_7094",0,"2 hits
+gene_12136
+gene_5805","6 hits
+gene_2080
+gene_2081
+gene_2190
+gene_4994
+gene_4996
+gene_7027",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"1 hit
+gene_5514","1 hit
+gene_5514","1 hit
+gene_5514","5 hits
+gene_12440
+gene_195
+gene_2643
+gene_2659
+gene_4933","5 hits
+gene_12440
+gene_195
+gene_2643
+gene_2659
+gene_4933","5 hits
+gene_12440
+gene_195
+gene_2643
+gene_2659
+gene_4933","5 hits
+gene_12440
+gene_195
+gene_2643
+gene_2659
+gene_4933","1 hit
+gene_5853","2 hits
+gene_11263
+gene_6014","1 hit
+gene_2813","5 hits
+gene_11354
+gene_11596
+gene_11597
+gene_11599
+gene_11606","5 hits
+gene_11354
+gene_11596
+gene_11597
+gene_11599
+gene_11606","5 hits
+gene_11354
+gene_11596
+gene_11597
+gene_11599
+gene_11606","5 hits
+gene_11354
+gene_11596
+gene_11597
+gene_11599
+gene_11606","17 hits
+gene_10215
+gene_10711
+gene_12015
+gene_12018
+gene_12019
+gene_12026
+gene_12038
+gene_12039
+gene_12041
+gene_12043
+gene_2545
+gene_3106
+gene_3109
+gene_4130
+gene_5180
+gene_5419
+gene_9022","37 hits
+gene_10726
+gene_10834
+gene_10845
+gene_10855
+gene_11807
+gene_1204
+gene_1206
+gene_12293
+gene_12307
+gene_12449
+gene_2871
+gene_2873
+gene_2880
+gene_2881
+gene_3119
+gene_3121
+gene_3128
+gene_3131
+gene_3223
+gene_3497
+gene_3693
+gene_392
+gene_4152
+gene_5166
+gene_5168
+gene_5169
+gene_5173
+gene_5175
+gene_6663
+gene_6793
+gene_7349
+gene_7594
+gene_7629
+gene_7821
+gene_9510
+gene_9751
+gene_9752","10 hits
+gene_10855
+gene_2873
+gene_3121
+gene_392
+gene_5173
+gene_6663
+gene_6793
+gene_7349
+gene_7594
+gene_7629","37 hits
+gene_10726
+gene_10834
+gene_10845
+gene_10855
+gene_11807
+gene_1204
+gene_1206
+gene_12293
+gene_12307
+gene_12449
+gene_2871
+gene_2873
+gene_2880
+gene_2881
+gene_3119
+gene_3121
+gene_3128
+gene_3131
+gene_3223
+gene_3693
+gene_392
+gene_4152
+gene_5166
+gene_5167
+gene_5168
+gene_5169
+gene_5173
+gene_5175
+gene_6663
+gene_6793
+gene_7349
+gene_7594
+gene_7629
+gene_7821
+gene_9510
+gene_9751
+gene_9752","34 hits
+gene_10726
+gene_10834
+gene_10845
+gene_10855
+gene_11807
+gene_1204
+gene_1206
+gene_12293
+gene_12307
+gene_12449
+gene_2871
+gene_2873
+gene_2880
+gene_2881
+gene_3119
+gene_3121
+gene_3128
+gene_3131
+gene_3223
+gene_3693
+gene_392
+gene_4152
+gene_5166
+gene_5168
+gene_5169
+gene_5173
+gene_5175
+gene_6663
+gene_6793
+gene_7594
+gene_7629
+gene_7821
+gene_9510
+gene_9751","1 hit
+gene_3497","7 hits
+gene_12027
+gene_12028
+gene_12031
+gene_1613
+gene_4888
+gene_5140
+gene_7516","7 hits
+gene_12027
+gene_12028
+gene_12031
+gene_1613
+gene_4888
+gene_5140
+gene_7516","4 hits
+gene_10203
+gene_1037
+gene_11316
+gene_873","9 hits
+gene_11411
+gene_12476
+gene_1386
+gene_1413
+gene_5559
+gene_6022
+gene_7560
+gene_7636
+gene_9853","2 hits
+gene_1650
+gene_7349","16 hits
+gene_11470
+gene_11505
+gene_11699
+gene_117
+gene_2906
+gene_2922
+gene_2924
+gene_2927
+gene_4127
+gene_4945
+gene_555
+gene_8090
+gene_8886
+gene_8937
+gene_8938
+gene_8939","1 hit
+gene_6223","2 hits
+gene_6844
+gene_9456"
+Caecom1 ,"6 hits
+gene_10885
+gene_20583
+gene_3015
+gene_3016
+gene_6264
+gene_6265","3 hits
+gene_10313
+gene_704
+gene_705","10 hits
+gene_11588
+gene_11812
+gene_11960
+gene_12802
+gene_25104
+gene_5726
+gene_622
+gene_6686
+gene_7775
+gene_9155","17 hits
+gene_14801
+gene_1645
+gene_17824
+gene_21553
+gene_2209
+gene_2220
+gene_4253
+gene_6107
+gene_6107
+gene_6393
+gene_6449
+gene_7935
+gene_8051
+gene_8052
+gene_8487
+gene_8488
+gene_93","1 hit
+gene_2209","4 hits
+gene_7935
+gene_8051
+gene_8052
+gene_93","10 hits
+gene_14801
+gene_1645
+gene_17824
+gene_21553
+gene_4253
+gene_6107
+gene_6107
+gene_6449
+gene_8487
+gene_8488","2 hits
+gene_2220
+gene_6393","2 hits
+gene_3792
+gene_8915","5 hits
+gene_1645
+gene_2209
+gene_6107
+gene_8487
+gene_8488",0,0,0,0,"1 hit
+gene_2209",0,"1 hit
+gene_2209","8 hits
+gene_1645
+gene_21553
+gene_4253
+gene_6107
+gene_6107
+gene_6449
+gene_8487
+gene_8488",0,0,0,0,0,0,0,"1 hit
+gene_2209",0,"18 hits
+gene_10035
+gene_10443
+gene_12067
+gene_13446
+gene_13447
+gene_1357
+gene_1359
+gene_1360
+gene_1381
+gene_23051
+gene_250
+gene_252
+gene_4813
+gene_4813
+gene_4813
+gene_5517
+gene_5726
+gene_6991",0,"1 hit
+gene_8773","9 hits
+gene_2782
+gene_2785
+gene_3395
+gene_3396
+gene_5227
+gene_80
+gene_8073
+gene_8724
+gene_8779","8 hits
+gene_12095
+gene_3169
+gene_3643
+gene_4807
+gene_4948
+gene_5548
+gene_8027
+gene_8827","35 hits
+gene_10375
+gene_11181
+gene_21557
+gene_23168
+gene_23844
+gene_24013
+gene_2867
+gene_3342
+gene_3343
+gene_4350
+gene_4350
+gene_4350
+gene_4350
+gene_5475
+gene_5475
+gene_5682
+gene_5826
+gene_5827
+gene_6102
+gene_6105
+gene_6476
+gene_6476
+gene_6476
+gene_6476
+gene_6476
+gene_6476
+gene_7756
+gene_7937
+gene_7938
+gene_7938
+gene_7939
+gene_9684
+gene_9737
+gene_9737
+gene_9932",0,"5 hits
+gene_11094
+gene_3366
+gene_3367
+gene_3746
+gene_5165","1 hit
+gene_3367","1 hit
+gene_5165",0,0,0,"3 hits
+gene_6787
+gene_6789
+gene_917","3 hits
+gene_6787
+gene_6789
+gene_917","1 hit
+gene_11094","1 hit
+gene_11094","2 hits
+gene_11094
+gene_3366","1 hit
+gene_11094","1 hit
+gene_11094",0,0,0,"1 hit
+gene_5165",0,0,0,0,"1 hit
+gene_4199","3 hits
+gene_3366
+gene_3367
+gene_3746",0,0,0,"4 hits
+gene_11094
+gene_3366
+gene_3367
+gene_3746",0,0,"1 hit
+gene_11094",0,0,"1 hit
+gene_11094",0,"2 hits
+gene_3768
+gene_7084",0,0,"2 hits
+gene_3768
+gene_7084","2 hits
+gene_3768
+gene_7084","2 hits
+gene_3768
+gene_7084","3 hits
+gene_1163
+gene_1164
+gene_1165",0,0,"1 hit
+gene_14938","12 hits
+gene_11376
+gene_15264
+gene_18294
+gene_3978
+gene_4187
+gene_4189
+gene_4255
+gene_4667
+gene_6833
+gene_7494
+gene_8765
+gene_9357","1 hit
+gene_13850","8 hits
+gene_10862
+gene_1254
+gene_1255
+gene_1256
+gene_13505
+gene_15204
+gene_2365
+gene_8690","5 hits
+gene_11156
+gene_11324
+gene_11325
+gene_1858
+gene_4531",0,0,"3 hits
+gene_2117
+gene_7421
+gene_9256",0,0,"1 hit
+gene_9256","3 hits
+gene_2117
+gene_7421
+gene_9256","4 hits
+gene_2117
+gene_4836
+gene_7421
+gene_9256",0,"3 hits
+gene_1139
+gene_2426
+gene_272",0,"1 hit
+gene_24607","1 hit
+gene_1470","21 hits
+gene_10086
+gene_10478
+gene_11212
+gene_12518
+gene_16349
+gene_17040
+gene_2641
+gene_28974
+gene_4352
+gene_6486
+gene_6637
+gene_7275
+gene_7868
+gene_7870
+gene_8651
+gene_9085
+gene_9096
+gene_922
+gene_9621
+gene_9622
+gene_9891","12 hits
+gene_10086
+gene_11212
+gene_12518
+gene_17040
+gene_28974
+gene_6486
+gene_6637
+gene_6637
+gene_7868
+gene_7870
+gene_9621
+gene_9622","15 hits
+gene_10086
+gene_10478
+gene_11212
+gene_12518
+gene_16349
+gene_28974
+gene_6486
+gene_6637
+gene_7275
+gene_7868
+gene_7870
+gene_9085
+gene_9096
+gene_9621
+gene_9622","10 hits
+gene_10086
+gene_12518
+gene_6486
+gene_6637
+gene_7275
+gene_9085
+gene_9096
+gene_922
+gene_9621
+gene_9622","1 hit
+gene_922","1 hit
+gene_922",0,0,0,0,"7 hits
+gene_10478
+gene_16349
+gene_2641
+gene_7275
+gene_8651
+gene_9085
+gene_9096",0,"1 hit
+gene_2641",0,0,"19 hits
+gene_10086
+gene_10478
+gene_11212
+gene_12518
+gene_16349
+gene_2641
+gene_28974
+gene_4352
+gene_6486
+gene_6637
+gene_7275
+gene_7868
+gene_7870
+gene_8651
+gene_9085
+gene_9096
+gene_9621
+gene_9622
+gene_9891","2 hits
+gene_1361
+gene_9977","7 hits
+gene_10086
+gene_12518
+gene_1361
+gene_6486
+gene_9621
+gene_9622
+gene_9977","3 hits
+gene_12202
+gene_1361
+gene_9977","1 hit
+gene_12202","3 hits
+gene_12202
+gene_1361
+gene_9977","1 hit
+gene_10236","19 hits
+gene_10086
+gene_10478
+gene_11212
+gene_12518
+gene_16349
+gene_17040
+gene_28974
+gene_4352
+gene_6486
+gene_6637
+gene_7275
+gene_7868
+gene_7870
+gene_8651
+gene_9085
+gene_9096
+gene_9621
+gene_9622
+gene_9891",0,"3 hits
+gene_6486
+gene_9621
+gene_9622",0,"17 hits
+gene_10086
+gene_10478
+gene_11212
+gene_12518
+gene_16349
+gene_28974
+gene_4352
+gene_6486
+gene_6637
+gene_7275
+gene_7868
+gene_7870
+gene_8651
+gene_9085
+gene_9096
+gene_9621
+gene_9622","12 hits
+gene_10086
+gene_10478
+gene_12518
+gene_17040
+gene_4352
+gene_6486
+gene_6637
+gene_9085
+gene_9096
+gene_9621
+gene_9622
+gene_9891","1 hit
+gene_2641","1 hit
+gene_10236","17 hits
+gene_10509
+gene_11195
+gene_13313
+gene_14786
+gene_16292
+gene_2053
+gene_23977
+gene_2819
+gene_2820
+gene_38
+gene_4782
+gene_4842
+gene_6093
+gene_7010
+gene_7946
+gene_7947
+gene_9801","3 hits
+gene_1501
+gene_1502
+gene_5866","7 hits
+gene_2508
+gene_3314
+gene_5775
+gene_5787
+gene_5788
+gene_5842
+gene_8688",0,"1 hit
+gene_237",0,0,"1 hit
+gene_9077","1 hit
+gene_2905",0,0,"2 hits
+gene_13235
+gene_13237","2 hits
+gene_5757
+gene_9147",0,0,0,0,0,"2 hits
+gene_10266
+gene_6088",0,"16 hits
+gene_10176
+gene_10177
+gene_11628
+gene_14385
+gene_15456
+gene_171
+gene_240
+gene_4644
+gene_6675
+gene_7754
+gene_9391
+gene_9721
+gene_9722
+gene_9723
+gene_9725
+gene_9726","2 hits
+gene_2403
+gene_7785","1 hit
+gene_8844",0,0,0,"1 hit
+gene_4199",0,"1 hit
+gene_3560",0,0,"2 hits
+gene_11360
+gene_9066","3 hits
+gene_206
+gene_5052
+gene_6903","14 hits
+gene_111
+gene_1113
+gene_11946
+gene_11958
+gene_12337
+gene_13858
+gene_1454
+gene_166
+gene_167
+gene_2330
+gene_325
+gene_326
+gene_6523
+gene_7884","5 hits
+gene_10606
+gene_453
+gene_6687
+gene_6944
+gene_9559",0,0,"2 hits
+gene_11468
+gene_8872","3 hits
+gene_12200
+gene_3198
+gene_9800",0,"2 hits
+gene_11275
+gene_5466","3 hits
+gene_19257
+gene_3175
+gene_406","3 hits
+gene_20138
+gene_694
+gene_695","2 hits
+gene_13833
+gene_22586",0,"5 hits
+gene_12232
+gene_25525
+gene_5500
+gene_5970
+gene_9863","5 hits
+gene_11969
+gene_13576
+gene_1606
+gene_3355
+gene_782",0,"4 hits
+gene_10824
+gene_21915
+gene_23718
+gene_7976","1 hit
+gene_13506","1 hit
+gene_4489","1 hit
+gene_3620","6 hits
+gene_1045
+gene_10593
+gene_13279
+gene_19
+gene_3299
+gene_6188",0,0,"1 hit
+gene_13092",0,"1 hit
+gene_15841",0,"1 hit
+gene_9754",0,"7 hits
+gene_3234
+gene_3247
+gene_3416
+gene_3421
+gene_7941
+gene_7974
+gene_8800","1 hit
+gene_5950",0,"7 hits
+gene_15047
+gene_8950
+gene_9557
+gene_9558
+gene_9560
+gene_9563
+gene_9863","5 hits
+gene_10990
+gene_14950
+gene_26134
+gene_27750
+gene_2839",0,0,"1 hit
+gene_11476","2 hits
+gene_2319
+gene_2319","2 hits
+gene_11324
+gene_4531","1 hit
+gene_10236","4 hits
+gene_11724
+gene_13759
+gene_3491
+gene_5606","27 hits
+gene_10709
+gene_11030
+gene_11031
+gene_11036
+gene_11288
+gene_11477
+gene_14618
+gene_14735
+gene_19199
+gene_19415
+gene_2261
+gene_4356
+gene_5875
+gene_5897
+gene_6148
+gene_6149
+gene_6150
+gene_6151
+gene_6152
+gene_6160
+gene_7558
+gene_8016
+gene_8018
+gene_8275
+gene_9327
+gene_9328
+gene_9421","8 hits
+gene_10629
+gene_10629
+gene_10630
+gene_10630
+gene_10631
+gene_10635
+gene_3991
+gene_3991","9 hits
+gene_1072
+gene_13916
+gene_15179
+gene_3345
+gene_3890
+gene_3901
+gene_7184
+gene_7712
+gene_8015","6 hits
+gene_2868
+gene_3899
+gene_4172
+gene_7057
+gene_9096
+gene_9770","1 hit
+gene_10855",0,"3 hits
+gene_2315
+gene_2316
+gene_2318","3 hits
+gene_11073
+gene_1279
+gene_5602","17 hits
+gene_14418
+gene_1543
+gene_1642
+gene_17120
+gene_1963
+gene_23915
+gene_23915
+gene_23915
+gene_23915
+gene_25991
+gene_27353
+gene_2912
+gene_5761
+gene_5828
+gene_5829
+gene_8356
+gene_8358","16 hits
+gene_11724
+gene_12242
+gene_12600
+gene_13759
+gene_21603
+gene_23050
+gene_3491
+gene_4636
+gene_5332
+gene_5606
+gene_7137
+gene_8960
+gene_8963
+gene_9939
+gene_9940
+gene_9941","3 hits
+gene_13507
+gene_8537
+gene_8537","1 hit
+gene_11809","2 hits
+gene_8537
+gene_8537","2 hits
+gene_8537
+gene_8537","3 hits
+gene_13507
+gene_8537
+gene_8537","3 hits
+gene_13507
+gene_8537
+gene_8537","2 hits
+gene_8537
+gene_8537","2 hits
+gene_8537
+gene_8537","2 hits
+gene_11448
+gene_11450","1 hit
+gene_11450","2 hits
+gene_11448
+gene_11450","2 hits
+gene_11448
+gene_11450","2 hits
+gene_11448
+gene_11450","2 hits
+gene_12276
+gene_2316","2 hits
+gene_12276
+gene_2316","2 hits
+gene_12276
+gene_2316","2 hits
+gene_12276
+gene_2316","2 hits
+gene_12276
+gene_2316",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,33 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_9085            -            753 GH43_16.hmm          -            311  7.1e-130  432.3   6.4   1   1  1.8e-132  1.1e-129  431.7   6.4     1   309    44   348    44   349 0.98 [Caecom1]
+gene_9096            -           1076 GH43_16.hmm          -            311  1.8e-129  431.0   8.0   1   1  5.4e-132  3.5e-129  430.1   8.0     1   305    35   335    35   339 0.98 [Caecom1]
+gene_7275            -            587 GH43_16.hmm          -            311  1.8e-128  427.7   7.7   1   1  4.7e-131    3e-128  427.0   7.7     1   306    39   341    39   345 0.98 [Caecom1]
+gene_10478           -            538 GH43_16.hmm          -            311  1.4e-126  421.6   4.4   1   1  3.2e-129    2e-126  421.0   4.4     1   308    38   343    38   346 0.97 [Caecom1]
+gene_16349           -            586 GH43_16.hmm          -            311    2e-125  417.7   8.8   1   1  4.1e-128  2.6e-125  417.3   8.8     1   308    42   345    42   348 0.98 [Caecom1]
+gene_8651            -            538 GH43_16.hmm          -            311  1.4e-111  372.3   7.6   1   1  3.5e-114  2.2e-111  371.6   7.6     1   306    37   354    37   358 0.98 [Caecom1]
+gene_6486            -            307 GH43_16.hmm          -            311   2.5e-52  177.6   6.9   1   1   8.5e-55   5.5e-52  176.5   6.9     9   311     2   287     1   287 0.86 [Caecom1]
+gene_9621            -            413 GH43_16.hmm          -            311   3.9e-52  177.0   3.4   1   1   9.7e-55   6.3e-52  176.3   3.4     2   311   122   405   121   405 0.89 [Caecom1]
+gene_9622            -            413 GH43_16.hmm          -            311     7e-52  176.1   3.0   1   1   1.1e-54     7e-52  176.1   3.0     2   311   122   405   121   405 0.89 [Caecom1]
+gene_10086           -            527 GH43_16.hmm          -            311     3e-50  170.8   2.7   1   1   6.5e-53   4.2e-50  170.3   2.7     1   311    19   296    19   296 0.85 [Caecom1]
+gene_6637            -            491 GH43_16.hmm          -            311     2e-44  151.6   5.2   1   1     5e-47   3.2e-44  151.0   5.2     1   311    19   313    19   313 0.83 [Caecom1]
+gene_12518           -            496 GH43_16.hmm          -            311   3.3e-43  147.6   5.1   1   1   8.9e-46   5.8e-43  146.9   5.1     1   311    19   313    19   313 0.82 [Caecom1]
+gene_11212           -            334 GH43_16.hmm          -            311   5.5e-34  117.4   5.5   1   1   1.2e-36   7.7e-34  116.9   5.5     2   311     7   317     6   317 0.86 [Caecom1]
+gene_4352            -            779 GH43_16.hmm          -            311   7.8e-34  116.9  10.6   1   1   2.5e-36   1.6e-33  115.8  10.6    13   309   318   618   308   620 0.78 [Caecom1]
+gene_28974           -            326 GH43_16.hmm          -            311   1.4e-33  116.0   5.9   1   1     3e-36     2e-33  115.5   5.9     2   310     7   316     6   317 0.86 [Caecom1]
+gene_7868            -            326 GH43_16.hmm          -            311   1.4e-33  116.0   5.9   1   1     3e-36     2e-33  115.5   5.9     2   310     7   316     6   317 0.86 [Caecom1]
+gene_7870            -            326 GH43_16.hmm          -            311   1.4e-33  116.0   5.9   1   1     3e-36     2e-33  115.5   5.9     2   310     7   316     6   317 0.86 [Caecom1]
+gene_9891            -            487 GH43_16.hmm          -            311   5.1e-33  114.2   2.1   1   1   2.3e-35   1.5e-32  112.7   2.1    12   305    22   308     9   316 0.80 [Caecom1]
+gene_2641            -            812 GH43_16.hmm          -            311   3.2e-31  108.3   5.1   1   1     5e-34   3.2e-31  108.3   5.1     1   308    26   293    26   295 0.89 [Caecom1]
+gene_17040           -            494 GH43_16.hmm          -            311     7e-22   77.6  10.6   1   1   4.8e-24   3.1e-21   75.5  10.6     6   305    13   341     7   347 0.80 [Caecom1]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/GH43_16/GH43_16.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Caecom1.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/GH43_16/GH43_16-Caecom1.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/GH43_16/GH43_16.hmm /kb/module/work/tmp/output.1777173254839/Caecom1.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:17:08 2026
+# [ok]

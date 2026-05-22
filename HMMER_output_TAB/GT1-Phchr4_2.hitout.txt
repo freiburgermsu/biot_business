@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_5871            -           1443 GT1.hmm              -            382   1.4e-60  205.3   1.2   1   1   1.1e-63   1.4e-60  205.3   1.2     5   379   959  1378   956  1381 0.98 [Phchr4_2]
+gene_7737            -           1071 GT1.hmm              -            382   6.4e-52  176.9   0.2   1   1   5.3e-55   6.4e-52  176.9   0.2     5   377   647  1056   590  1060 0.95 [Phchr4_2]
+gene_8171            -            434 GT1.hmm              -            382     2e-28   99.8   0.5   1   1   2.3e-31   2.8e-28   99.3   0.5   220   365   214   413   105   427 0.73 [Phchr4_2]
+gene_5025            -            516 GT1.hmm              -            382   4.8e-28   98.6   0.5   1   1     8e-31   9.5e-28   97.6   0.5     5   372    16   482    12   489 0.82 [Phchr4_2]
+gene_10062           -            485 GT1.hmm              -            382   9.8e-27   94.3   8.7   1   1   1.3e-29   1.6e-26   93.6   8.7   120   378   189   478   180   480 0.92 [Phchr4_2]
+gene_5026            -            515 GT1.hmm              -            382   6.3e-25   88.3   0.2   1   1   5.3e-28   6.3e-25   88.3   0.2   221   323   303   428   239   507 0.76 [Phchr4_2]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/GT1/GT1.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Phchr4_2.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/GT1/GT1-Phchr4_2.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/GT1/GT1.hmm /kb/module/work/tmp/output.1777173254839/Phchr4_2.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:17:57 2026
+# [ok]

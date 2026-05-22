@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_6414            -            422 GH5_9.hmm            -            303  4.8e-113  377.2   1.8   1   1  6.4e-116  5.8e-113  376.9   1.8     1   303    86   392    86   392 0.98 [Phchr4_2]
+gene_11291           -            390 GH5_9.hmm            -            303  4.8e-112  373.9   0.1   1   1  6.2e-115  5.7e-112  373.7   0.1     1   303    54   360    54   360 0.98 [Phchr4_2]
+gene_1956            -            779 GH5_9.hmm            -            303  6.1e-100  334.2   0.2   1   1  9.4e-103  8.7e-100  333.7   0.2     1   302   306   613   306   614 0.96 [Phchr4_2]
+gene_9721            -            472 GH5_9.hmm            -            303   5.2e-93  311.4   0.0   1   1   6.8e-96   6.3e-93  311.2   0.0     1   303   132   442   132   442 0.95 [Phchr4_2]
+gene_139             -            654 GH5_9.hmm            -            303   2.7e-91  305.8   0.0   1   1   3.8e-94   3.5e-91  305.4   0.0     1   302   199   492   199   493 0.97 [Phchr4_2]
+gene_7036            -            804 GH5_9.hmm            -            303   6.5e-85  284.8   0.0   1   1   9.2e-88   8.5e-85  284.5   0.0     1   302   272   595   272   596 0.96 [Phchr4_2]
+gene_1797            -            632 GH5_9.hmm            -            303   6.2e-50  170.0   0.9   1   1   3.2e-50   2.9e-47  161.2   0.0     1   234   178   415   178   420 0.90 [Phchr4_2]
+gene_9065            -            527 GH5_9.hmm            -            303   2.4e-48  164.8   0.0   1   1   6.1e-46   5.6e-43  147.1   0.0     1   233    92   344    92   356 0.82 [Phchr4_2]
+gene_3822            -            475 GH5_9.hmm            -            303   2.2e-29  102.5   2.8   1   1     4e-25   3.7e-22   78.8   0.0     2   150    82   234    81   276 0.90 [Phchr4_2]
+gene_11915           -            476 GH5_9.hmm            -            303   1.9e-22   79.7   3.6   1   1   3.6e-25   3.3e-22   78.9   0.8     4   193    68   253    65   297 0.83 [Phchr4_2]
+gene_11914           -            482 GH5_9.hmm            -            303   7.1e-21   74.6   0.0   1   1   2.7e-23   2.5e-20   72.7   0.0     4   219    69   283    66   343 0.81 [Phchr4_2]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/GH5_9/GH5_9.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Phchr4_2.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/GH5_9/GH5_9-Phchr4_2.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/GH5_9/GH5_9.hmm /kb/module/work/tmp/output.1777173254839/Phchr4_2.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:16:10 2026
+# [ok]

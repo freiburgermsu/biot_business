@@ -1,0 +1,16 @@
+#                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_7441            -            277 GT2_Glycos_transf_2.hmm PF00535.25   170   3.3e-31  107.8   0.0   1   1   4.6e-34   4.3e-31  107.4   0.0     1   166    10   178    10   181 0.95 [Phchr4_2]
+gene_3229            -            321 GT2_Glycos_transf_2.hmm PF00535.25   170   1.5e-26   92.7   0.0   1   1     2e-29   1.8e-26   92.4   0.0     1   167    67   245    67   248 0.92 [Phchr4_2]
+gene_854             -           1007 GT2_Glycos_transf_2.hmm PF00535.25   170   1.7e-16   59.9   0.0   1   1     4e-19   3.7e-16   58.8   0.0     1   123   616   738   616   771 0.86 [Phchr4_2]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/GT2_Glycos_transf_2/GT2_Glycos_transf_2.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Phchr4_2.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/GT2_Glycos_transf_2/GT2_Glycos_transf_2-Phchr4_2.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/GT2_Glycos_transf_2/GT2_Glycos_transf_2.hmm /kb/module/work/tmp/output.1777173254839/Phchr4_2.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:18:00 2026
+# [ok]

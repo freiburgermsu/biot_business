@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_9621            -            413 GH43_8.hmm           -            281   2.5e-22   79.2   0.3   1   1   3.9e-25   3.6e-22   78.7   0.3    33   278   163   402   129   405 0.76 [Caecom1]
+gene_9622            -            413 GH43_8.hmm           -            281   2.6e-22   79.1   0.2   1   1   4.2e-25   3.9e-22   78.6   0.2    33   278   163   402   129   405 0.76 [Caecom1]
+gene_6486            -            307 GH43_8.hmm           -            281   2.3e-21   76.1   3.4   1   1     2e-23   1.9e-20   73.0   3.4    32   278    35   284     3   286 0.79 [Caecom1]
+gene_12518           -            496 GH43_8.hmm           -            281   4.9e-19   68.4   1.2   1   1   5.2e-22   4.9e-19   68.4   1.2    31   272    64   304    53   312 0.80 [Caecom1]
+gene_6637            -            491 GH43_8.hmm           -            281   7.7e-19   67.8   1.7   1   1   1.5e-21   1.4e-18   66.9   1.7    31   272    64   304    53   312 0.78 [Caecom1]
+gene_2641            -            812 GH43_8.hmm           -            281   1.9e-18   66.5   0.9   1   1     2e-21   1.9e-18   66.5   0.9     1   281    27   295    27   295 0.74 [Caecom1]
+gene_10086           -            527 GH43_8.hmm           -            281   6.3e-18   64.8   0.5   1   1   1.7e-17   1.6e-14   53.6   0.1    32   134    65   169    53   182 0.84 [Caecom1]
+gene_11212           -            334 GH43_8.hmm           -            281   1.4e-16   60.4   4.1   1   1   2.9e-18   2.8e-15   56.1   2.6    48   278    69   314    52   317 0.77 [Caecom1]
+gene_28974           -            326 GH43_8.hmm           -            281   3.3e-16   59.1   4.5   1   1   1.5e-17   1.4e-14   53.8   3.6    48   278    69   314    52   317 0.78 [Caecom1]
+gene_7868            -            326 GH43_8.hmm           -            281   3.3e-16   59.1   4.5   1   1   1.5e-17   1.4e-14   53.8   3.6    48   278    69   314    52   317 0.78 [Caecom1]
+gene_7870            -            326 GH43_8.hmm           -            281   3.3e-16   59.1   4.5   1   1   1.5e-17   1.4e-14   53.8   3.6    48   278    69   314    52   317 0.78 [Caecom1]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/GH43_8/GH43_8.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Caecom1.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/GH43_8/GH43_8-Caecom1.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/GH43_8/GH43_8.hmm /kb/module/work/tmp/output.1777173254839/Caecom1.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:17:06 2026
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_7496            -            959 GT2_Glyco_trans_2_3.hmm PF13632.5    197   4.2e-59  199.2   0.6   1   1   1.3e-61   1.3e-58  197.6   0.6     1   194   576   793   576   796 0.89 [Phchr4_2]
+gene_11000           -            882 GT2_Glyco_trans_2_3.hmm PF13632.5    197   2.4e-57  193.5   0.7   1   1   2.4e-60   2.4e-57  193.5   0.7     1   194   498   715   498   717 0.88 [Phchr4_2]
+gene_12058           -            882 GT2_Glyco_trans_2_3.hmm PF13632.5    197   1.2e-56  191.2   0.8   1   1   1.2e-59   1.2e-56  191.2   0.8     1   194   498   715   498   718 0.88 [Phchr4_2]
+gene_1295            -           1989 GT2_Glyco_trans_2_3.hmm PF13632.5    197   5.6e-14   51.9   3.3   1   1   5.6e-17   5.6e-14   51.9   3.3     1   169  1426  1673  1426  1701 0.66 [Phchr4_2]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/GT2_Glyco_trans_2_3/GT2_Glyco_trans_2_3.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Phchr4_2.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/GT2_Glyco_trans_2_3/GT2_Glyco_trans_2_3-Phchr4_2.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/GT2_Glyco_trans_2_3/GT2_Glyco_trans_2_3.hmm /kb/module/work/tmp/output.1777173254839/Phchr4_2.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:18:01 2026
+# [ok]

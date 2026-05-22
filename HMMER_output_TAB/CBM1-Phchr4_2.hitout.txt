@@ -1,0 +1,36 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_2103            -            460 CBM1.hmm             -             29   1.1e-15   56.7   9.4   1   1     1e-17   3.4e-15   55.2   9.4     2    29    25    52    24    52 0.98 [Phchr4_2]
+gene_3334            -            511 CBM1.hmm             -             29     1e-14   53.6   7.8   1   1   3.1e-17     1e-14   53.6   7.8     1    29   479   507   479   507 0.98 [Phchr4_2]
+gene_7027            -            359 CBM1.hmm             -             29   1.1e-14   53.6   8.6   1   1   8.9e-17   3.1e-14   52.1   8.6     2    29    23    50    22    50 0.98 [Phchr4_2]
+gene_12278           -            399 CBM1.hmm             -             29   1.5e-14   53.2   9.7   1   1   4.2e-17   1.5e-14   53.2   9.7     2    29    25    52    24    52 0.98 [Phchr4_2]
+gene_10974           -            502 CBM1.hmm             -             29   1.8e-14   52.8   7.7   1   1   5.4e-17   1.8e-14   52.8   7.7     1    29   470   498   470   498 0.98 [Phchr4_2]
+gene_4941            -            226 CBM1.hmm             -             29   1.9e-14   52.8  11.4   1   1   1.4e-16   4.8e-14   51.5  11.4     2    29    23    50    22    50 0.99 [Phchr4_2]
+gene_12179           -            460 CBM1.hmm             -             29   2.1e-14   52.6   9.4   1   1   6.2e-17   2.1e-14   52.6   9.4     2    29    26    53    25    53 0.98 [Phchr4_2]
+gene_12136           -            472 CBM1.hmm             -             29   2.2e-14   52.6   8.3   1   1   2.4e-16   8.1e-14   50.8   8.3     2    29    25    52    24    52 0.98 [Phchr4_2]
+gene_2924            -            320 CBM1.hmm             -             29   2.4e-14   52.5   7.3   1   1   1.9e-16   6.4e-14   51.1   7.3     1    29   288   316   288   316 0.98 [Phchr4_2]
+gene_8886            -            339 CBM1.hmm             -             29   2.4e-14   52.5   5.9   1   1   1.8e-16     6e-14   51.2   5.9     1    29   307   335   307   335 0.98 [Phchr4_2]
+gene_11505           -            313 CBM1.hmm             -             29   3.2e-14   52.1  11.1   1   1   9.3e-17   3.2e-14   52.1  11.1     1    29   281   309   281   309 0.98 [Phchr4_2]
+gene_258             -            512 CBM1.hmm             -             29   4.4e-14   51.6   7.0   1   1   1.3e-16   4.4e-14   51.6   7.0     1    29   480   508   480   508 0.98 [Phchr4_2]
+gene_260             -            512 CBM1.hmm             -             29   4.4e-14   51.6   7.0   1   1   1.3e-16   4.4e-14   51.6   7.0     1    29   480   508   480   508 0.98 [Phchr4_2]
+gene_11048           -            516 CBM1.hmm             -             29   4.6e-14   51.6  10.2   1   1   1.4e-16   4.6e-14   51.6  10.2     1    29   484   512   484   512 0.98 [Phchr4_2]
+gene_2922            -            323 CBM1.hmm             -             29   4.9e-14   51.5   7.6   1   1   4.1e-16   1.4e-13   50.0   7.6     1    29   291   319   291   319 0.98 [Phchr4_2]
+gene_11470           -            329 CBM1.hmm             -             29   5.9e-14   51.2   8.6   1   1   4.5e-16   1.5e-13   49.9   8.6     1    29   297   325   297   325 0.98 [Phchr4_2]
+gene_5980            -            823 CBM1.hmm             -             29   6.3e-14   51.1   6.9   1   1   1.8e-16   6.3e-14   51.1   6.9     2    29    26    53    25    53 0.98 [Phchr4_2]
+gene_3732            -            510 CBM1.hmm             -             29   6.4e-14   51.1   9.8   1   1   1.9e-16   6.4e-14   51.1   9.8     1    29   478   506   478   506 0.98 [Phchr4_2]
+gene_5841            -            386 CBM1.hmm             -             29   7.3e-14   50.9   8.5   1   1   4.8e-16   1.6e-13   49.8   8.5     1    29    21    49    21    49 0.98 [Phchr4_2]
+gene_9566            -             86 CBM1.hmm             -             29   9.3e-14   50.6   0.5   1   1   2.7e-16   9.3e-14   50.6   0.5     2    28    46    72    45    73 0.96 [Phchr4_2]
+gene_77              -            376 CBM1.hmm             -             29   1.3e-13   50.1   5.4   1   1   8.2e-16   2.8e-13   49.0   5.4     2    29    24    51    23    51 0.99 [Phchr4_2]
+gene_117             -            317 CBM1.hmm             -             29   2.5e-13   49.2  11.3   1   1   7.2e-16   2.5e-13   49.2  11.3     1    29   285   313   285   313 0.99 [Phchr4_2]
+gene_6514            -            367 CBM1.hmm             -             29   3.2e-13   48.8   7.6   1   1   9.5e-16   3.2e-13   48.8   7.6     2    29    23    50    22    50 0.98 [Phchr4_2]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/CBM1/CBM1.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Phchr4_2.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/CBM1/CBM1-Phchr4_2.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/CBM1/CBM1.hmm /kb/module/work/tmp/output.1777173254839/Phchr4_2.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:18:41 2026
+# [ok]

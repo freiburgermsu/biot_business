@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_12056           -            428 GH16_3.hmm           -            230   7.4e-47  159.6   0.8   1   1   5.2e-49   2.7e-46  157.7   0.8     2   209    96   375    95   400 0.83 [Phchr4_2]
+gene_7495            -            627 GH16_3.hmm           -            230   6.4e-46  156.5   0.4   1   1   1.3e-47   6.9e-45  153.1   0.1     3   209   285   567   284   592 0.83 [Phchr4_2]
+gene_504             -            680 GH16_3.hmm           -            230   5.3e-28   97.9   0.1   1   1   4.3e-21   2.3e-18   66.4   0.5     2   102   247   352   246   395 0.88 [Phchr4_2]
+gene_5645            -            604 GH16_3.hmm           -            230   2.2e-26   92.6   1.9   1   1   2.9e-16   1.5e-13   50.6   0.2     2   102   202   307   201   336 0.85 [Phchr4_2]
+gene_12376           -            619 GH16_3.hmm           -            230   1.3e-24   86.8   8.5   1   1   6.7e-16   3.5e-13   49.4   0.4     2   107   219   336   218   356 0.85 [Phchr4_2]
+gene_5653            -            595 GH16_3.hmm           -            230   9.3e-24   84.0   4.3   1   1   2.6e-16   1.3e-13   50.8   0.2     2   102   191   296   190   315 0.84 [Phchr4_2]
+gene_5049            -            315 GH16_3.hmm           -            230   1.8e-15   56.9   0.1   1   1   1.4e-16   7.4e-14   51.6   0.1    32   227    57   294    41   296 0.62 [Phchr4_2]
+gene_5097            -            338 GH16_3.hmm           -            230   2.3e-14   53.3   0.1   1   1   7.5e-17   3.9e-14   52.5   0.1    29   148    58   179    38   189 0.71 [Phchr4_2]
+gene_11175           -            444 GH16_3.hmm           -            230   3.4e-14   52.7   0.9   1   1   2.6e-16   1.4e-13   50.7   0.9    35   142   177   278   147   404 0.77 [Phchr4_2]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/GH16_3/GH16_3.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Phchr4_2.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/GH16_3/GH16_3-Phchr4_2.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/GH16_3/GH16_3.hmm /kb/module/work/tmp/output.1777173254839/Phchr4_2.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:16:45 2026
+# [ok]

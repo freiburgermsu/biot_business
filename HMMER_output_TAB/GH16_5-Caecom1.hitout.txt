@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_7084            -            401 GH16_5.hmm           -            238   9.4e-35  119.5   0.7   1   1   9.2e-37   1.9e-33  115.3   0.7     1   238   135   398   135   398 0.77 [Caecom1]
+gene_3768            -            315 GH16_5.hmm           -            238   4.3e-33  114.1   2.0   1   1   2.1e-36   4.3e-33  114.1   2.0     1   238    49   312    49   312 0.69 [Caecom1]
+gene_1164            -            317 GH16_5.hmm           -            238   1.6e-19   69.6   2.1   1   1   1.5e-22     3e-19   68.7   2.1    57   219    13   180     4   191 0.72 [Caecom1]
+gene_1165            -            256 GH16_5.hmm           -            238   6.5e-19   67.6   5.1   1   1   5.4e-22   1.1e-18   66.9   5.2    57   219    68   235    28   249 0.72 [Caecom1]
+gene_1163            -            339 GH16_5.hmm           -            238   2.5e-18   65.7   5.0   1   1   1.3e-21   2.5e-18   65.7   5.0    54   219    65   235    28   246 0.72 [Caecom1]
+gene_14938           -            283 GH16_5.hmm           -            238   3.3e-15   55.5   0.0   1   1   2.1e-18   4.2e-15   55.2   0.0    94   237   135   277   101   278 0.83 [Caecom1]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/GH16_5/GH16_5.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Caecom1.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/GH16_5/GH16_5-Caecom1.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/GH16_5/GH16_5.hmm /kb/module/work/tmp/output.1777173254839/Caecom1.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:16:45 2026
+# [ok]

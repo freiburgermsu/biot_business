@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_2785            -            788 GH9.hmm              -            418  2.8e-119  398.9  19.2   1   1  2.2e-122  3.5e-119  398.6  19.2     1   418    25   459    25   459 0.89 [Caecom1]
+gene_2782            -            789 GH9.hmm              -            418  6.5e-116  387.8  24.0   1   1  5.5e-119  8.7e-116  387.4  24.0     1   418    25   460    25   460 0.89 [Caecom1]
+gene_80              -            788 GH9.hmm              -            418  6.8e-116  387.8  20.4   1   1  5.5e-119  8.7e-116  387.4  20.4     1   418    24   454    24   454 0.89 [Caecom1]
+gene_8724            -            579 GH9.hmm              -            418  9.1e-115  384.0  10.2   1   1  7.1e-118  1.1e-114  383.8  10.2     1   418    22   446    22   446 0.90 [Caecom1]
+gene_8779            -            807 GH9.hmm              -            418  2.3e-113  379.4  21.9   1   1  1.9e-116    3e-113  379.1  21.9     1   418    26   456    26   456 0.89 [Caecom1]
+gene_3395            -            802 GH9.hmm              -            418  4.1e-113  378.6  24.0   1   1  4.2e-116  6.6e-113  377.9  24.0     1   418    26   456    26   456 0.89 [Caecom1]
+gene_3396            -            755 GH9.hmm              -            418  6.2e-113  378.0  23.2   1   1  4.9e-116  7.7e-113  377.7  23.2     1   418    26   456    26   456 0.89 [Caecom1]
+gene_8073            -            624 GH9.hmm              -            418  9.8e-110  367.5   9.7   1   1  7.8e-113  1.2e-109  367.2   9.7     1   418    38   468    38   468 0.91 [Caecom1]
+gene_5227            -            814 GH9.hmm              -            418  1.4e-109  366.9   8.5   1   1  1.1e-112  1.7e-109  366.7   8.5     1   418   225   655   225   655 0.90 [Caecom1]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/GH9/GH9.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Caecom1.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/GH9/GH9-Caecom1.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/GH9/GH9.hmm /kb/module/work/tmp/output.1777173254839/Caecom1.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:16:27 2026
+# [ok]

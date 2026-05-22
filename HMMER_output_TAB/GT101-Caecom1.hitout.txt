@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_15047           -            355 GT101.hmm            -            224   1.4e-81  273.2   4.0   1   1   8.7e-85   1.4e-81  273.2   4.0     1   224   110   331   110   331 0.96 [Caecom1]
+gene_9563            -            333 GT101.hmm            -            224   7.8e-80  267.5   5.8   1   1   6.9e-83   1.1e-79  267.0   5.8     1   224    81   306    81   306 0.96 [Caecom1]
+gene_9560            -            361 GT101.hmm            -            224   1.4e-79  266.7   5.8   1   1   8.8e-83   1.4e-79  266.7   5.8     1   224   109   334   109   334 0.96 [Caecom1]
+gene_8950            -            370 GT101.hmm            -            224   2.3e-78  262.7   7.8   1   1   2.4e-81   3.7e-78  262.0   7.8     1   224   115   343   115   343 0.95 [Caecom1]
+gene_9557            -            338 GT101.hmm            -            224   4.4e-76  255.2   6.4   1   1   4.5e-79     7e-76  254.6   6.4     1   222    86   309    86   311 0.96 [Caecom1]
+gene_9863            -            899 GT101.hmm            -            224   8.1e-73  244.6   0.4   1   1   5.1e-76   8.1e-73  244.6   0.4     1   224   641   866   641   866 0.97 [Caecom1]
+gene_9558            -            984 GT101.hmm            -            224   1.2e-42  145.9   2.4   1   1   8.4e-44   1.3e-40  139.2   0.5   118   222   877   981   875   983 0.98 [Caecom1]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/GT101/GT101.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Caecom1.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/GT101/GT101-Caecom1.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/GT101/GT101.hmm /kb/module/work/tmp/output.1777173254839/Caecom1.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:18:38 2026
+# [ok]

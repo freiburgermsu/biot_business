@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_1858            -            602 CBM35.hmm            -            119   8.6e-53  177.2   8.5   1   2   1.2e-29   2.5e-26   91.9   1.1     1   118    25   140    25   141 0.98 [Caecom1]
+gene_1858            -            602 CBM35.hmm            -            119   8.6e-53  177.2   8.5   2   2   7.5e-29   1.5e-25   89.3   1.2     2   119   151   266   150   266 0.98 [Caecom1]
+gene_4531            -            652 CBM35.hmm            -            119   1.5e-33  115.2   0.4   1   1   3.4e-36   6.9e-33  113.0   0.1     1   117    23   136    23   138 0.98 [Caecom1]
+gene_11324           -            569 CBM35.hmm            -            119   3.8e-33  113.9   1.0   1   1   3.8e-36   7.6e-33  112.9   0.2     1   117    23   136    23   138 0.98 [Caecom1]
+gene_7332            -            306 CBM35.hmm            -            119     7e-16   58.2   3.9   1   1   3.5e-19     7e-16   58.2   3.9     4   118   187   304   183   305 0.86 [Caecom1]
+gene_11325           -            506 CBM35.hmm            -            119   7.7e-15   54.8   0.6   1   1   1.1e-17   2.3e-14   53.3   0.1    47   117     1    68     1    70 0.96 [Caecom1]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/CBM35/CBM35.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Caecom1.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/CBM35/CBM35-Caecom1.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/CBM35/CBM35.hmm /kb/module/work/tmp/output.1777173254839/Caecom1.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:18:49 2026
+# [ok]

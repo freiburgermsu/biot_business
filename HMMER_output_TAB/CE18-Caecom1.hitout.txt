@@ -1,0 +1,30 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_7137            -           1013 CE18.hmm             -            367   3.4e-71  239.8   2.2   1   1     7e-74   5.8e-71  239.1   2.2     1   365   232   594   232   596 0.90 [Caecom1]
+gene_12600           -            796 CE18.hmm             -            367   1.8e-67  227.6   0.1   1   1   2.9e-70   2.5e-67  227.1   0.1     1   364   229   595   229   598 0.89 [Caecom1]
+gene_9939            -            874 CE18.hmm             -            367   2.8e-67  226.9   1.1   1   1   5.9e-70   4.9e-67  226.1   1.1     1   365   257   616   257   618 0.90 [Caecom1]
+gene_9940            -            694 CE18.hmm             -            367   7.5e-67  225.5   0.7   1   1   1.3e-69   1.1e-66  225.0   0.7     1   365   257   616   257   618 0.91 [Caecom1]
+gene_11724           -            813 CE18.hmm             -            367   1.2e-66  224.9   6.4   1   1   1.4e-69   1.2e-66  224.9   6.4    20   365   287   618   258   620 0.88 [Caecom1]
+gene_12242           -            738 CE18.hmm             -            367   4.8e-66  222.9   4.0   1   1   8.4e-69     7e-66  222.3   4.0     2   365   260   625   259   627 0.87 [Caecom1]
+gene_9941            -           1380 CE18.hmm             -            367   4.3e-64  216.4   0.8   1   1   1.1e-66   9.5e-64  215.3   0.8     1   364   256   619   256   622 0.88 [Caecom1]
+gene_5332            -            650 CE18.hmm             -            367     8e-64  215.6   1.1   1   1   1.3e-66   1.1e-63  215.1   1.1     1   364   256   620   256   623 0.88 [Caecom1]
+gene_4636            -            694 CE18.hmm             -            367   2.2e-63  214.1   0.0   1   1   3.6e-66     3e-63  213.7   0.0     1   364   246   609   246   612 0.89 [Caecom1]
+gene_5606            -           1115 CE18.hmm             -            367   2.4e-63  214.0   0.8   1   1   4.7e-66   3.9e-63  213.3   0.8     1   364   255   619   255   622 0.86 [Caecom1]
+gene_13759           -           1062 CE18.hmm             -            367   5.4e-63  212.8   0.1   1   1   9.7e-66   8.1e-63  212.3   0.1     1   364   257   620   257   623 0.89 [Caecom1]
+gene_8963            -            786 CE18.hmm             -            367   7.2e-63  212.4   5.7   1   1   1.2e-65     1e-62  211.9   5.7     2   365   220   587   219   589 0.84 [Caecom1]
+gene_8960            -           1024 CE18.hmm             -            367   8.3e-63  212.2   4.5   1   1   1.2e-65   9.7e-63  212.0   2.5     2   365   237   611   236   613 0.86 [Caecom1]
+gene_3491            -            814 CE18.hmm             -            367   1.4e-60  204.9   0.8   1   1   2.4e-63     2e-60  204.4   0.8     3   363   257   611   255   615 0.90 [Caecom1]
+gene_23050           -            994 CE18.hmm             -            367     1e-59  202.0   0.1   1   1   1.9e-62   1.6e-59  201.5   0.1     1   364   256   618   256   621 0.89 [Caecom1]
+gene_21603           -            963 CE18.hmm             -            367   6.3e-49  166.6   0.5   1   1   2.7e-51   2.3e-48  164.7   0.1    88   364   311   587   296   590 0.91 [Caecom1]
+gene_29036           -            929 CE18.hmm             -            367   1.1e-21   76.9  12.6   1   1   4.8e-19     4e-16   58.6  11.8    58   364   367   684   361   687 0.74 [Caecom1]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/CE18/CE18.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Caecom1.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/CE18/CE18-Caecom1.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/CE18/CE18.hmm /kb/module/work/tmp/output.1777173254839/Caecom1.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:19:07 2026
+# [ok]

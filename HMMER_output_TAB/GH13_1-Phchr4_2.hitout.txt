@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_2300            -            534 GH13_1.hmm           -            306  4.6e-124  412.9   0.2   1   1  3.9e-127  5.8e-124  412.6   0.2     1   306    58   360    58   360 0.99 [Phchr4_2]
+gene_11698           -            539 GH13_1.hmm           -            306  1.3e-116  388.5   0.1   1   1    1e-119  1.5e-116  388.2   0.1     1   306    56   373    56   373 0.95 [Phchr4_2]
+gene_7649            -            609 GH13_1.hmm           -            306   8.2e-31  106.7   0.0   1   1   5.5e-29   8.2e-26   90.2   0.0     2   176    48   231    47   302 0.83 [Phchr4_2]
+gene_8083            -            593 GH13_1.hmm           -            306   1.1e-27   96.4   0.0   1   1   2.6e-30   3.9e-27   94.6   0.0     2   299    41   403    40   407 0.72 [Phchr4_2]
+gene_1893            -           2342 GH13_1.hmm           -            306   1.4e-23   82.9   0.0   1   1   2.8e-26   4.2e-23   81.3   0.0     1   298    98   499    98   505 0.70 [Phchr4_2]
+gene_9640            -            528 GH13_1.hmm           -            306   7.4e-21   73.9   0.0   1   1   7.8e-24   1.2e-20   73.3   0.0    14   294    67   403    56   409 0.72 [Phchr4_2]
+gene_7375            -            574 GH13_1.hmm           -            306   1.3e-20   73.1   0.0   1   1   1.2e-23   1.8e-20   72.7   0.0    18   279    59   321    43   340 0.79 [Phchr4_2]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/GH13_1/GH13_1.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Phchr4_2.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/GH13_1/GH13_1-Phchr4_2.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/GH13_1/GH13_1.hmm /kb/module/work/tmp/output.1777173254839/Phchr4_2.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:16:28 2026
+# [ok]

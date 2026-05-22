@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_9250            -            409 GH28.hmm             -            325   1.7e-75  253.6  20.3   1   1   1.1e-78   2.1e-75  253.3  20.3    11   322    44   396    35   399 0.84 [Phchr4_2]
+gene_11289           -            421 GH28.hmm             -            325   1.6e-55  187.9   7.2   1   1   9.9e-59     2e-55  187.7   7.2    36   320    79   412    44   417 0.83 [Phchr4_2]
+gene_11301           -            367 GH28.hmm             -            325   1.8e-53  181.2  23.1   1   1   1.2e-56   2.4e-53  180.8  23.1     4   308    39   353    35   364 0.87 [Phchr4_2]
+gene_12127           -            423 GH28.hmm             -            325   5.3e-53  179.7   7.6   1   1   3.6e-56   7.2e-53  179.2   7.6    14   277    49   339    39   355 0.85 [Phchr4_2]
+gene_10974           -            502 GH28.hmm             -            325     1e-50  172.2  17.2   1   1   6.8e-54   1.3e-50  171.8  17.2     5   320    61   368    57   374 0.87 [Phchr4_2]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/GH28/GH28.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Phchr4_2.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/GH28/GH28-Phchr4_2.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/GH28/GH28.hmm /kb/module/work/tmp/output.1777173254839/Phchr4_2.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:16:54 2026
+# [ok]

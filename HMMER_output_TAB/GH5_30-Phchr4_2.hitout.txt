@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_7898            -            452 GH5_30.hmm           -            436   1.3e-73  247.9   7.6   1   2   5.8e-27   2.3e-23   82.3   0.9     1    99   106   207   106   208 0.95 [Phchr4_2]
+gene_7898            -            452 GH5_30.hmm           -            436   1.3e-73  247.9   7.6   2   2   5.4e-43   2.2e-39  135.1   0.1   131   232   208   310   207   319 0.96 [Phchr4_2]
+gene_12179           -            460 GH5_30.hmm           -            436   1.5e-71  241.1  16.8   1   2     7e-25   2.8e-21   75.4   3.0     1    99   115   216   115   216 0.92 [Phchr4_2]
+gene_12179           -            460 GH5_30.hmm           -            436   1.5e-71  241.1  16.8   2   2   6.1e-46   2.4e-42  144.8   0.6   131   232   217   319   216   328 0.96 [Phchr4_2]
+gene_5691            -            436 GH5_30.hmm           -            436   8.4e-64  215.5   5.0   1   2   5.1e-29     2e-25   89.1   0.4     1    99    48   152    48   153 0.91 [Phchr4_2]
+gene_5691            -            436 GH5_30.hmm           -            436   8.4e-64  215.5   5.0   2   2   7.4e-32     3e-28   98.4   0.0   132   240   154   268   152   276 0.92 [Phchr4_2]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/GH5_30/GH5_30.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Phchr4_2.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/GH5_30/GH5_30-Phchr4_2.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/GH5_30/GH5_30.hmm /kb/module/work/tmp/output.1777173254839/Phchr4_2.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:16:17 2026
+# [ok]

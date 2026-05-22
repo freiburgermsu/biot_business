@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_6188            -            738 GT39.hmm             -            223   2.7e-73  245.9  16.2   1   1   1.5e-76   2.7e-73  245.9  16.2     2   223    57   295    56   295 0.98 [Caecom1]
+gene_1045            -            741 GT39.hmm             -            223   2.4e-69  233.0  17.7   1   1   1.3e-72   2.4e-69  233.0  17.7     2   223    61   299    60   299 0.98 [Caecom1]
+gene_3299            -            748 GT39.hmm             -            223   6.1e-68  228.4  13.9   1   1   3.5e-71   6.1e-68  228.4  13.9     2   223    64   303    63   303 0.98 [Caecom1]
+gene_19              -            803 GT39.hmm             -            223   1.4e-67  227.2  13.6   1   1     8e-71   1.4e-67  227.2  13.6     2   223    70   314    69   314 0.96 [Caecom1]
+gene_10593           -            768 GT39.hmm             -            223   4.9e-67  225.4  19.6   1   1   8.1e-70   1.4e-66  223.9  19.6     2   223    88   327    87   327 0.97 [Caecom1]
+gene_13279           -            691 GT39.hmm             -            223   1.6e-53  181.3  20.0   1   1   8.9e-57   1.6e-53  181.3  20.0     2   223    15   258    14   258 0.97 [Caecom1]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/GT39/GT39.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Caecom1.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/GT39/GT39-Caecom1.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/GT39/GT39.hmm /kb/module/work/tmp/output.1777173254839/Caecom1.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:18:12 2026
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_3746            -            479 GH13_15.hmm          -            285   2.3e-29  102.3   0.8   1   1   1.1e-30   1.9e-27   96.0   0.8     1   281    87   346    87   349 0.82 [Caecom1]
+gene_3367            -            494 GH13_15.hmm          -            285   4.2e-29  101.4   1.5   1   1   1.4e-30   2.4e-27   95.7   1.5     1   280    60   318    60   322 0.82 [Caecom1]
+gene_3366            -            492 GH13_15.hmm          -            285   4.6e-29  101.3   1.8   1   1   1.5e-30   2.6e-27   95.6   1.8     1   279    60   317    60   322 0.80 [Caecom1]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/GH13_15/GH13_15.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Caecom1.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/GH13_15/GH13_15-Caecom1.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/GH13_15/GH13_15.hmm /kb/module/work/tmp/output.1777173254839/Caecom1.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:16:33 2026
+# [ok]

@@ -1,0 +1,30 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_10711           -            372 AA2.hmm              -            255  2.4e-114  380.5   0.1   1   1  5.3e-117  3.7e-114  379.9   0.1     1   255    45   306    45   306 0.99 [Phchr4_2]
+gene_12018           -            366 AA2.hmm              -            255  3.3e-113  376.8   0.1   1   1  5.9e-116  4.2e-113  376.5   0.1     1   255    45   306    45   306 0.99 [Phchr4_2]
+gene_12038           -            369 AA2.hmm              -            255  9.1e-113  375.4   0.1   1   1  1.6e-115  1.1e-112  375.1   0.1     1   255    44   305    44   305 0.99 [Phchr4_2]
+gene_5419            -            372 AA2.hmm              -            255  3.4e-112  373.5   0.1   1   1  6.1e-115  4.3e-112  373.1   0.1     1   255    46   307    46   307 0.99 [Phchr4_2]
+gene_12026           -            378 AA2.hmm              -            255    1e-111  371.9   0.1   1   1  1.8e-114  1.3e-111  371.6   0.1     1   255    44   305    44   305 0.99 [Phchr4_2]
+gene_12039           -            372 AA2.hmm              -            255  2.4e-111  370.7   0.1   1   1  4.4e-114  3.1e-111  370.3   0.1     1   255    45   306    45   306 0.99 [Phchr4_2]
+gene_12019           -            372 AA2.hmm              -            255  5.5e-111  369.5   0.1   1   1  9.7e-114  6.8e-111  369.2   0.1     1   255    45   306    45   306 0.99 [Phchr4_2]
+gene_9022            -            381 AA2.hmm              -            255  2.2e-110  367.5   0.2   1   1  3.9e-113  2.8e-110  367.2   0.2     2   254    42   305    41   306 0.98 [Phchr4_2]
+gene_12041           -            366 AA2.hmm              -            255  2.9e-110  367.2   0.0   1   1  5.2e-113  3.6e-110  366.8   0.0     1   255    45   306    45   306 0.99 [Phchr4_2]
+gene_12015           -            371 AA2.hmm              -            255  4.8e-110  366.4   0.1   1   1  8.7e-113  6.1e-110  366.1   0.1     1   255    45   306    45   306 0.99 [Phchr4_2]
+gene_10215           -            382 AA2.hmm              -            255  8.6e-110  365.6   0.2   1   1  1.5e-112  1.1e-109  365.3   0.2     2   254    42   305    41   306 0.98 [Phchr4_2]
+gene_3106            -            378 AA2.hmm              -            255  5.2e-109  363.1   0.2   1   1  9.3e-112  6.5e-109  362.7   0.2     2   255    39   303    38   303 0.98 [Phchr4_2]
+gene_12043           -            368 AA2.hmm              -            255  5.2e-109  363.1   0.1   1   1  1.1e-111  7.7e-109  362.5   0.1     1   255    45   302    45   302 0.99 [Phchr4_2]
+gene_2545            -            382 AA2.hmm              -            255  1.4e-108  361.6   0.1   1   1  2.5e-111  1.8e-108  361.3   0.1     2   255    43   307    42   307 0.98 [Phchr4_2]
+gene_3109            -            375 AA2.hmm              -            255   3.7e-99  330.7   0.1   1   1  7.2e-102   5.1e-99  330.3   0.1     2   255    39   295    38   295 0.98 [Phchr4_2]
+gene_4130            -            315 AA2.hmm              -            255   1.3e-91  306.0   0.2   1   1   2.2e-94   1.5e-91  305.8   0.2     1   255    44   299    44   299 0.98 [Phchr4_2]
+gene_5180            -            389 AA2.hmm              -            255   4.5e-55  186.3   0.0   1   1   8.8e-58   6.2e-55  185.9   0.0     5   253   109   357   105   359 0.94 [Phchr4_2]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/AA2/AA2.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Phchr4_2.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/AA2/AA2-Phchr4_2.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/AA2/AA2.hmm /kb/module/work/tmp/output.1777173254839/Phchr4_2.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:19:38 2026
+# [ok]

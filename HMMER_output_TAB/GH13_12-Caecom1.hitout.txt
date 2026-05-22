@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_11094           -            749 GH13_12.hmm          -            284   1.7e-48  165.4   0.0   1   1   2.1e-51   3.3e-48  164.5   0.0     6   284   269   599   266   599 0.88 [Caecom1]
+gene_3366            -            492 GH13_12.hmm          -            284     1e-29  103.8   0.6   1   1     1e-32   1.6e-29  103.1   0.6     3   269    46   315    45   337 0.81 [Caecom1]
+gene_3367            -            494 GH13_12.hmm          -            284   1.7e-28   99.8   0.4   1   1   1.7e-31   2.7e-28   99.1   0.4     3   269    46   315    45   337 0.81 [Caecom1]
+gene_3746            -            479 GH13_12.hmm          -            284     6e-28   98.0   0.1   1   1   6.9e-31   1.1e-27   97.1   0.1     3   270    73   343    72   366 0.79 [Caecom1]
+gene_5165            -            423 GH13_12.hmm          -            284     4e-18   65.7   0.2   1   1   4.5e-21   7.1e-18   64.9   0.2     3   193    48   264    46   392 0.75 [Caecom1]
+gene_917             -            715 GH13_12.hmm          -            284   1.1e-13   51.2   0.1   1   1   1.6e-16   2.6e-13   50.0   0.0     9   154   240   377   232   383 0.85 [Caecom1]
+gene_6789            -            680 GH13_12.hmm          -            284   2.7e-13   49.9   0.0   1   1   3.3e-16   5.2e-13   49.0   0.0    10   153   204   339   195   343 0.78 [Caecom1]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/GH13_12/GH13_12.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Caecom1.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/GH13_12/GH13_12-Caecom1.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/GH13_12/GH13_12.hmm /kb/module/work/tmp/output.1777173254839/Caecom1.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:16:32 2026
+# [ok]

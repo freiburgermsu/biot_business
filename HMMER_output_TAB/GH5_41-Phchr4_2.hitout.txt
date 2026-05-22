@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_7898            -            452 GH5_41.hmm           -            256   9.8e-28   96.6   0.0   1   1   3.4e-30   8.1e-27   93.6   0.0     4   253   132   420   129   423 0.83 [Phchr4_2]
+gene_12179           -            460 GH5_41.hmm           -            256   1.2e-27   96.4   0.0   1   1   1.1e-30   2.5e-27   95.3   0.0     3   255   140   430   138   431 0.81 [Phchr4_2]
+gene_5691            -            436 GH5_41.hmm           -            256   6.5e-19   67.7   0.0   1   1     1e-20   2.5e-17   62.6   0.0     3   248    72   381    70   391 0.77 [Phchr4_2]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/GH5_41/GH5_41.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Phchr4_2.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/GH5_41/GH5_41-Phchr4_2.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/GH5_41/GH5_41.hmm /kb/module/work/tmp/output.1777173254839/Phchr4_2.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:16:20 2026
+# [ok]

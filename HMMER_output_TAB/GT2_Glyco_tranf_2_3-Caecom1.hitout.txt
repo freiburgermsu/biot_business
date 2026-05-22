@@ -1,0 +1,20 @@
+#                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_8052            -           1100 GT2_Glyco_tranf_2_3.hmm PF13641.5    230   8.3e-19   68.1   0.0   1   1   3.3e-21   1.3e-18   67.4   0.0     2   230   506   745   505   745 0.82 [Caecom1]
+gene_93              -           1056 GT2_Glyco_tranf_2_3.hmm PF13641.5    230   1.3e-17   64.2   0.0   1   1   6.5e-20   2.6e-17   63.1   0.0     2   230   454   696   453   696 0.82 [Caecom1]
+gene_8051            -           1117 GT2_Glyco_tranf_2_3.hmm PF13641.5    230   4.4e-17   62.4   0.0   1   1   1.8e-19   7.2e-17   61.7   0.0     2   230   512   751   511   751 0.81 [Caecom1]
+gene_7935            -           1152 GT2_Glyco_tranf_2_3.hmm PF13641.5    230   1.5e-16   60.7   0.0   1   1     1e-18   4.2e-16   59.2   0.0     4   230   549   788   547   788 0.82 [Caecom1]
+gene_4852            -            662 GT2_Glyco_tranf_2_3.hmm PF13641.5    230   1.1e-15   57.8   0.0   1   1   2.5e-16     1e-13   51.4   0.0    66   228   289   458   270   460 0.87 [Caecom1]
+gene_2743            -            701 GT2_Glyco_tranf_2_3.hmm PF13641.5    230   7.8e-15   55.0   0.1   1   1   1.8e-16   7.2e-14   51.9   0.1    63   228   306   478   286   480 0.86 [Caecom1]
+gene_4068            -            920 GT2_Glyco_tranf_2_3.hmm PF13641.5    230   1.5e-13   50.8   0.0   1   1   6.4e-16   2.6e-13   50.1   0.0    56   230   348   553   334   553 0.77 [Caecom1]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/GT2_Glyco_tranf_2_3/GT2_Glyco_tranf_2_3.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Caecom1.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/GT2_Glyco_tranf_2_3/GT2_Glyco_tranf_2_3-Caecom1.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/GT2_Glyco_tranf_2_3/GT2_Glyco_tranf_2_3.hmm /kb/module/work/tmp/output.1777173254839/Caecom1.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:18:01 2026
+# [ok]

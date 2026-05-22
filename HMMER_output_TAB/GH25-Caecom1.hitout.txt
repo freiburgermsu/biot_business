@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_1255            -            534 GH25.hmm             -            177     8e-49  166.0  11.6   1   2   1.8e-32   1.9e-29  102.9   2.9     1   177   133   318   133   318 0.88 [Caecom1]
+gene_1255            -            534 GH25.hmm             -            177     8e-49  166.0  11.6   2   2   6.8e-22   6.9e-19   68.5   1.5    29   151   398   525   385   534 0.87 [Caecom1]
+gene_13505           -            367 GH25.hmm             -            177   2.4e-35  122.1   3.5   1   1   4.5e-38   4.5e-35  121.2   3.5     1   177   166   351   166   351 0.90 [Caecom1]
+gene_15204           -            301 GH25.hmm             -            177     2e-32  112.6   7.3   1   1   2.4e-35   2.5e-32  112.3   7.3     1   177    81   268    81   268 0.88 [Caecom1]
+gene_1254            -            351 GH25.hmm             -            177   5.3e-32  111.2   7.1   1   1   7.2e-35   7.2e-32  110.7   7.1     1   177   149   335   149   335 0.89 [Caecom1]
+gene_8690            -            357 GH25.hmm             -            177   6.2e-32  111.0   1.0   1   1   7.9e-35     8e-32  110.6   1.0     1   177   155   341   155   341 0.88 [Caecom1]
+gene_10862           -            494 GH25.hmm             -            177   1.7e-31  109.6   4.9   1   1   4.1e-34   4.2e-31  108.3   4.9     1   177   275   478   275   478 0.85 [Caecom1]
+gene_2365            -            332 GH25.hmm             -            177   2.8e-31  108.8   4.3   1   1   3.5e-34   3.6e-31  108.5   4.3     1   177   131   316   131   316 0.90 [Caecom1]
+gene_1256            -            333 GH25.hmm             -            177   7.7e-31  107.4   0.7   1   1   9.6e-34   9.7e-31  107.1   0.7     1   177   131   317   131   317 0.90 [Caecom1]
+gene_9252            -            390 GH25.hmm             -            177   2.4e-22   79.8   1.1   1   1   3.8e-25   3.9e-22   79.1   1.1     1   174   185   374   185   376 0.83 [Caecom1]
+gene_10426           -            422 GH25.hmm             -            177   2.8e-22   79.5   1.1   1   1   4.6e-25   4.7e-22   78.8   1.1     1   174   217   406   217   408 0.83 [Caecom1]
+gene_1257            -            335 GH25.hmm             -            177     3e-22   79.4   0.2   1   1   3.9e-25     4e-22   79.0   0.2     1   177   136   320   136   320 0.88 [Caecom1]
+gene_14278           -            187 GH25.hmm             -            177   2.6e-17   63.3   0.3   1   1   3.1e-20   3.1e-17   63.1   0.3    21   170     3   167     1   171 0.81 [Caecom1]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/GH25/GH25.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Caecom1.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/GH25/GH25-Caecom1.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/GH25/GH25.hmm /kb/module/work/tmp/output.1777173254839/Caecom1.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:16:54 2026
+# [ok]

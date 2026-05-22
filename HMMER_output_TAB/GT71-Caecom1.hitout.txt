@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_8800            -            491 GT71.hmm             -            264   1.6e-52  178.5   1.2   1   1   1.9e-55   2.1e-52  178.1   0.2     1   260   170   409   170   412 0.88 [Caecom1]
+gene_3234            -            507 GT71.hmm             -            264   8.9e-52  176.0   0.2   1   1   1.7e-54   1.8e-51  175.0   0.2     1   260   173   414   173   421 0.85 [Caecom1]
+gene_7974            -            538 GT71.hmm             -            264   2.3e-51  174.6   0.7   1   1   5.4e-54   5.9e-51  173.3   0.0     1   257   190   434   190   439 0.86 [Caecom1]
+gene_7941            -            450 GT71.hmm             -            264   4.3e-50  170.5   0.0   1   1   7.4e-53   8.1e-50  169.6   0.0     1   263    64   313    64   314 0.88 [Caecom1]
+gene_3416            -            595 GT71.hmm             -            264   4.7e-50  170.3   0.1   1   1   4.3e-53   4.7e-50  170.3   0.1     1   258   265   507   265   511 0.86 [Caecom1]
+gene_3247            -            510 GT71.hmm             -            264   7.5e-48  163.1   0.1   1   1     2e-50   2.2e-47  161.6   0.1     1   258   169   414   169   418 0.87 [Caecom1]
+gene_3421            -            372 GT71.hmm             -            264   9.1e-48  162.8   0.2   1   1   2.2e-50   2.4e-47  161.4   0.0     1   264    35   285    35   285 0.86 [Caecom1]
+gene_11780           -            298 GT71.hmm             -            264   1.8e-27   96.3   0.1   1   1     3e-30   3.3e-27   95.4   0.1     1   118   159   274   159   278 0.92 [Caecom1]
+gene_12570           -            167 GT71.hmm             -            264   9.9e-25   87.3   0.1   1   1   1.1e-27   1.2e-24   87.1   0.1     1   117    38   152    38   156 0.95 [Caecom1]
+gene_24828           -            281 GT71.hmm             -            264   2.8e-23   82.5   0.1   1   1     5e-26   5.5e-23   81.6   0.1    96   255     1   150     1   158 0.80 [Caecom1]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/GT71/GT71.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Caecom1.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/GT71/GT71-Caecom1.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/GT71/GT71.hmm /kb/module/work/tmp/output.1777173254839/Caecom1.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:18:29 2026
+# [ok]

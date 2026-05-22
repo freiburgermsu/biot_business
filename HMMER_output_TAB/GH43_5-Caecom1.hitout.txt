@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_922             -            614 GH43_5.hmm           -            287   1.9e-33  115.9   8.9   1   1   4.6e-34   3.3e-31  108.5   8.9     1   286   158   499   158   500 0.68 [Caecom1]
+gene_9621            -            413 GH43_5.hmm           -            287     1e-16   61.0   0.3   1   1   2.3e-19   1.6e-16   60.3   0.3     2   194   131   325   130   378 0.77 [Caecom1]
+gene_9622            -            413 GH43_5.hmm           -            287   1.6e-16   60.4   0.3   1   1   3.5e-19   2.5e-16   59.7   0.3     2   194   131   325   130   378 0.77 [Caecom1]
+gene_6486            -            307 GH43_5.hmm           -            287   2.3e-16   59.8   1.9   1   1   5.5e-19   3.9e-16   59.1   1.9     2   233     4   241     3   285 0.81 [Caecom1]
+gene_10086           -            527 GH43_5.hmm           -            287   1.9e-15   56.8   1.3   1   1   1.3e-17     9e-15   54.6   1.3     3   285    30   294    28   295 0.76 [Caecom1]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/GH43_5/GH43_5.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Caecom1.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/GH43_5/GH43_5-Caecom1.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/GH43_5/GH43_5.hmm /kb/module/work/tmp/output.1777173254839/Caecom1.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:17:05 2026
+# [ok]

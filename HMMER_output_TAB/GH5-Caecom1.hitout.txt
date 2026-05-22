@@ -1,0 +1,32 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gene_6107            -           1060 GH5.hmm              -            275   2.9e-71  239.9  21.6   1   2   5.6e-38   2.7e-35  121.9   7.0    14   239   226   520   217   546 0.79 [Caecom1]
+gene_6107            -           1060 GH5.hmm              -            275   2.9e-71  239.9  21.6   2   2   1.6e-38   7.6e-36  123.8   6.6    14   237   623   915   614   943 0.78 [Caecom1]
+gene_2209            -            577 GH5.hmm              -            275   4.2e-59  200.0   8.5   1   1   1.4e-61   6.8e-59  199.3   8.5     2   240   233   549   232   565 0.82 [Caecom1]
+gene_1645            -            485 GH5.hmm              -            275   6.7e-41  140.3   4.9   1   1   1.9e-43   9.5e-41  139.8   4.9    12   237    45   342    36   362 0.79 [Caecom1]
+gene_8052            -           1100 GH5.hmm              -            275   3.1e-40  138.2   5.8   1   1   6.3e-43   3.1e-40  138.2   5.8     4   266    58   331    55   338 0.84 [Caecom1]
+gene_8051            -           1117 GH5.hmm              -            275   3.9e-40  137.8   4.9   1   1   7.9e-43   3.9e-40  137.8   4.9     4   266    65   337    62   344 0.83 [Caecom1]
+gene_8487            -            460 GH5.hmm              -            275   4.3e-39  134.4   6.2   1   1   1.2e-41   5.8e-39  134.0   6.2    18   239    48   341    36   375 0.76 [Caecom1]
+gene_8488            -            454 GH5.hmm              -            275   6.8e-38  130.5   4.3   1   1   1.9e-40   9.2e-38  130.0   4.3    21   237    51   339    36   367 0.79 [Caecom1]
+gene_93              -           1056 GH5.hmm              -            275   1.7e-37  129.2   5.3   1   1   6.2e-40     3e-37  128.3   5.3     2   250     2   260     1   284 0.78 [Caecom1]
+gene_7935            -           1152 GH5.hmm              -            275   2.2e-37  128.8   2.7   1   1   9.2e-40   4.5e-37  127.8   2.7     2   266    96   371    95   379 0.79 [Caecom1]
+gene_21553           -            391 GH5.hmm              -            275   1.6e-35  122.7   5.5   1   1   4.4e-38   2.2e-35  122.3   5.5    17   215    44   312    36   333 0.78 [Caecom1]
+gene_6393            -            586 GH5.hmm              -            275   5.2e-35  121.0   8.4   1   1   1.6e-37   7.9e-35  120.4   8.4    10   242    20   311    15   323 0.79 [Caecom1]
+gene_2220            -            630 GH5.hmm              -            275   1.8e-34  119.2   6.1   1   1   5.9e-37   2.9e-34  118.6   6.1    11   241    21   310    15   320 0.78 [Caecom1]
+gene_4253            -            528 GH5.hmm              -            275   1.2e-33  116.5   9.3   1   1   4.1e-36     2e-33  115.8   9.3    21   235    58   332    45   362 0.78 [Caecom1]
+gene_6449            -            473 GH5.hmm              -            275   2.6e-33  115.5   4.3   1   1   7.5e-36   3.7e-33  115.0   4.3    19   237    49   339    36   360 0.78 [Caecom1]
+gene_17824           -            334 GH5.hmm              -            275   2.2e-31  109.1   7.0   1   1   6.3e-34   3.1e-31  108.6   7.0    38   235     2   235     1   263 0.78 [Caecom1]
+gene_14801           -            426 GH5.hmm              -            275   1.5e-30  106.4   2.6   1   1   4.3e-33   2.1e-30  105.9   2.6    11   220    32   322    23   344 0.74 [Caecom1]
+gene_8915            -            576 GH5.hmm              -            275   1.5e-24   86.7   7.0   1   1   4.2e-27   2.1e-24   86.3   7.0    38   235    60   359    25   381 0.70 [Caecom1]
+gene_3792            -            434 GH5.hmm              -            275   3.6e-20   72.3   8.7   1   1     1e-22   5.1e-20   71.9   8.7     4   232    33   384    30   398 0.67 [Caecom1]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /kb/module/work/tmp/output.1777173254839/GH5/GH5.hmm
+# Target file:     /kb/module/work/tmp/output.1777173254839/Caecom1.fasta
+# Option settings: /kb/module/hmmer/bin/hmmsearch --domtblout /kb/module/work/tmp/output.1777173254839/GH5/GH5-Caecom1.hitout.txt --noali --notextw --domE 1e-15 /kb/module/work/tmp/output.1777173254839/GH5/GH5.hmm /kb/module/work/tmp/output.1777173254839/Caecom1.fasta 
+# Current dir:     /kb/module/work/tmp/output.1777173254839
+# Date:            Sun Apr 26 03:16:07 2026
+# [ok]
